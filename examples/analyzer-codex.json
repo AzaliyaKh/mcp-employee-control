@@ -1,0 +1,7 @@
+{
+  "kind": "codex_cli",
+  "model": "YOUR-MODEL",
+  "image": "worklog-cli-analyzer:local",
+  "gateway_volume": "worklog-codex-gateway",
+  "timeout_seconds": 300
+}

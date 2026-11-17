@@ -1,0 +1,689 @@
+{"time": "2026-11-03T08:26:44.243771+00:00", "run_id": "476bf62a308c4d18b152b696b3374fb9", "stage": "get_tasks", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:44.247852+00:00", "run_id": "476bf62a308c4d18b152b696b3374fb9", "stage": "get_tasks", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:44.252221+00:00", "run_id": "476bf62a308c4d18b152b696b3374fb9", "stage": "get_task", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:44.267494+00:00", "run_id": "476bf62a308c4d18b152b696b3374fb9", "stage": "get_task", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:44.272232+00:00", "run_id": "476bf62a308c4d18b152b696b3374fb9", "stage": "get_reports", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:44.274564+00:00", "run_id": "476bf62a308c4d18b152b696b3374fb9", "stage": "get_reports", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:44.279374+00:00", "run_id": "476bf62a308c4d18b152b696b3374fb9", "stage": "get_history", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:44.299288+00:00", "run_id": "476bf62a308c4d18b152b696b3374fb9", "stage": "get_history", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:44.305952+00:00", "run_id": "476bf62a308c4d18b152b696b3374fb9", "stage": "normalize", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:44.307232+00:00", "run_id": "476bf62a308c4d18b152b696b3374fb9", "stage": "normalize", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:44.313342+00:00", "run_id": "476bf62a308c4d18b152b696b3374fb9", "stage": "mask", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:44.315610+00:00", "run_id": "476bf62a308c4d18b152b696b3374fb9", "stage": "mask", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:44.321709+00:00", "run_id": "476bf62a308c4d18b152b696b3374fb9", "stage": "get_task", "status": "started", "task_id": "1783", "message": "этап начался"}
+{"time": "2026-11-03T08:26:44.347821+00:00", "run_id": "476bf62a308c4d18b152b696b3374fb9", "stage": "get_task", "status": "succeeded", "task_id": "1783", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:44.356041+00:00", "run_id": "476bf62a308c4d18b152b696b3374fb9", "stage": "get_reports", "status": "started", "task_id": "1783", "message": "этап начался"}
+{"time": "2026-11-03T08:26:44.379362+00:00", "run_id": "476bf62a308c4d18b152b696b3374fb9", "stage": "get_reports", "status": "succeeded", "task_id": "1783", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:44.386814+00:00", "run_id": "476bf62a308c4d18b152b696b3374fb9", "stage": "get_history", "status": "started", "task_id": "1783", "message": "этап начался"}
+{"time": "2026-11-03T08:26:44.410536+00:00", "run_id": "476bf62a308c4d18b152b696b3374fb9", "stage": "get_history", "status": "succeeded", "task_id": "1783", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:44.418257+00:00", "run_id": "476bf62a308c4d18b152b696b3374fb9", "stage": "normalize", "status": "started", "task_id": "1783", "message": "этап начался"}
+{"time": "2026-11-03T08:26:44.419886+00:00", "run_id": "476bf62a308c4d18b152b696b3374fb9", "stage": "normalize", "status": "succeeded", "task_id": "1783", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:44.426435+00:00", "run_id": "476bf62a308c4d18b152b696b3374fb9", "stage": "mask", "status": "started", "task_id": "1783", "message": "этап начался"}
+{"time": "2026-11-03T08:26:44.427893+00:00", "run_id": "476bf62a308c4d18b152b696b3374fb9", "stage": "mask", "status": "succeeded", "task_id": "1783", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:44.434045+00:00", "run_id": "476bf62a308c4d18b152b696b3374fb9", "stage": "statistics", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:44.435822+00:00", "run_id": "476bf62a308c4d18b152b696b3374fb9", "stage": "statistics", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:44.443451+00:00", "run_id": "476bf62a308c4d18b152b696b3374fb9", "stage": "privacy", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:44.452795+00:00", "run_id": "476bf62a308c4d18b152b696b3374fb9", "stage": "privacy", "status": "waiting", "task_id": null, "message": "этап остановлен: ожидается решение пользователя по персональным данным"}
+{"time": "2026-11-03T08:26:45.058672+00:00", "run_id": "2ca66bf814a848d69b121c5a6ace2420", "stage": "get_tasks", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:45.062331+00:00", "run_id": "2ca66bf814a848d69b121c5a6ace2420", "stage": "get_tasks", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:45.066504+00:00", "run_id": "2ca66bf814a848d69b121c5a6ace2420", "stage": "get_task", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:45.068335+00:00", "run_id": "2ca66bf814a848d69b121c5a6ace2420", "stage": "get_task", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:45.072033+00:00", "run_id": "2ca66bf814a848d69b121c5a6ace2420", "stage": "get_reports", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:45.073626+00:00", "run_id": "2ca66bf814a848d69b121c5a6ace2420", "stage": "get_reports", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:45.077723+00:00", "run_id": "2ca66bf814a848d69b121c5a6ace2420", "stage": "get_history", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:45.079255+00:00", "run_id": "2ca66bf814a848d69b121c5a6ace2420", "stage": "get_history", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:45.083488+00:00", "run_id": "2ca66bf814a848d69b121c5a6ace2420", "stage": "normalize", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:45.084144+00:00", "run_id": "2ca66bf814a848d69b121c5a6ace2420", "stage": "normalize", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:45.087802+00:00", "run_id": "2ca66bf814a848d69b121c5a6ace2420", "stage": "mask", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:45.088573+00:00", "run_id": "2ca66bf814a848d69b121c5a6ace2420", "stage": "mask", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:45.092484+00:00", "run_id": "2ca66bf814a848d69b121c5a6ace2420", "stage": "get_task", "status": "started", "task_id": "1783", "message": "этап начался"}
+{"time": "2026-11-03T08:26:45.094303+00:00", "run_id": "2ca66bf814a848d69b121c5a6ace2420", "stage": "get_task", "status": "succeeded", "task_id": "1783", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:45.098385+00:00", "run_id": "2ca66bf814a848d69b121c5a6ace2420", "stage": "get_reports", "status": "started", "task_id": "1783", "message": "этап начался"}
+{"time": "2026-11-03T08:26:45.112362+00:00", "run_id": "2ca66bf814a848d69b121c5a6ace2420", "stage": "get_reports", "status": "succeeded", "task_id": "1783", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:45.117967+00:00", "run_id": "2ca66bf814a848d69b121c5a6ace2420", "stage": "get_history", "status": "started", "task_id": "1783", "message": "этап начался"}
+{"time": "2026-11-03T08:26:45.145594+00:00", "run_id": "2ca66bf814a848d69b121c5a6ace2420", "stage": "get_history", "status": "succeeded", "task_id": "1783", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:45.153155+00:00", "run_id": "2ca66bf814a848d69b121c5a6ace2420", "stage": "normalize", "status": "started", "task_id": "1783", "message": "этап начался"}
+{"time": "2026-11-03T08:26:45.154930+00:00", "run_id": "2ca66bf814a848d69b121c5a6ace2420", "stage": "normalize", "status": "succeeded", "task_id": "1783", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:45.161773+00:00", "run_id": "2ca66bf814a848d69b121c5a6ace2420", "stage": "mask", "status": "started", "task_id": "1783", "message": "этап начался"}
+{"time": "2026-11-03T08:26:45.163769+00:00", "run_id": "2ca66bf814a848d69b121c5a6ace2420", "stage": "mask", "status": "succeeded", "task_id": "1783", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:45.170377+00:00", "run_id": "2ca66bf814a848d69b121c5a6ace2420", "stage": "statistics", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:45.171701+00:00", "run_id": "2ca66bf814a848d69b121c5a6ace2420", "stage": "statistics", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:45.179706+00:00", "run_id": "2ca66bf814a848d69b121c5a6ace2420", "stage": "privacy", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:45.185988+00:00", "run_id": "2ca66bf814a848d69b121c5a6ace2420", "stage": "codex", "status": "started", "task_id": "1783", "message": "этап начался"}
+{"time": "2026-11-03T08:26:45.187184+00:00", "run_id": "2ca66bf814a848d69b121c5a6ace2420", "stage": "codex", "status": "succeeded", "task_id": "1783", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:45.192820+00:00", "run_id": "2ca66bf814a848d69b121c5a6ace2420", "stage": "restore", "status": "started", "task_id": "1783", "message": "этап начался"}
+{"time": "2026-11-03T08:26:45.193792+00:00", "run_id": "2ca66bf814a848d69b121c5a6ace2420", "stage": "restore", "status": "succeeded", "task_id": "1783", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:45.201805+00:00", "run_id": "2ca66bf814a848d69b121c5a6ace2420", "stage": "privacy", "status": "waiting", "task_id": null, "message": "этап остановлен: ожидается решение пользователя по персональным данным"}
+{"time": "2026-11-03T08:26:45.208318+00:00", "run_id": "2ca66bf814a848d69b121c5a6ace2420", "stage": "privacy_decision", "status": "succeeded", "task_id": 1782, "action": "skip", "scope": "single_task", "message": "Решение применено только к указанной задаче"}
+{"time": "2026-11-03T08:26:45.217293+00:00", "run_id": "2ca66bf814a848d69b121c5a6ace2420", "stage": "privacy", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:45.219003+00:00", "run_id": "2ca66bf814a848d69b121c5a6ace2420", "stage": "privacy", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:45.223078+00:00", "run_id": "2ca66bf814a848d69b121c5a6ace2420", "stage": "save_report", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:45.228193+00:00", "run_id": "2ca66bf814a848d69b121c5a6ace2420", "stage": "save_report", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:45.794994+00:00", "run_id": "7606d0d8d7964ba0a15650b4630aaf11", "stage": "get_tasks", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:45.814238+00:00", "run_id": "7606d0d8d7964ba0a15650b4630aaf11", "stage": "get_tasks", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:45.822546+00:00", "run_id": "7606d0d8d7964ba0a15650b4630aaf11", "stage": "get_task", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:45.846642+00:00", "run_id": "7606d0d8d7964ba0a15650b4630aaf11", "stage": "get_task", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:45.853648+00:00", "run_id": "7606d0d8d7964ba0a15650b4630aaf11", "stage": "get_reports", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:45.877137+00:00", "run_id": "7606d0d8d7964ba0a15650b4630aaf11", "stage": "get_reports", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:45.883305+00:00", "run_id": "7606d0d8d7964ba0a15650b4630aaf11", "stage": "get_history", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:45.901581+00:00", "run_id": "7606d0d8d7964ba0a15650b4630aaf11", "stage": "get_history", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:45.907627+00:00", "run_id": "7606d0d8d7964ba0a15650b4630aaf11", "stage": "normalize", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:45.908808+00:00", "run_id": "7606d0d8d7964ba0a15650b4630aaf11", "stage": "normalize", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:45.915888+00:00", "run_id": "7606d0d8d7964ba0a15650b4630aaf11", "stage": "mask", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:45.917773+00:00", "run_id": "7606d0d8d7964ba0a15650b4630aaf11", "stage": "mask", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:45.924558+00:00", "run_id": "7606d0d8d7964ba0a15650b4630aaf11", "stage": "statistics", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:45.926434+00:00", "run_id": "7606d0d8d7964ba0a15650b4630aaf11", "stage": "statistics", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:45.934688+00:00", "run_id": "7606d0d8d7964ba0a15650b4630aaf11", "stage": "privacy", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:45.940625+00:00", "run_id": "7606d0d8d7964ba0a15650b4630aaf11", "stage": "codex", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:46.004678+00:00", "run_id": "7606d0d8d7964ba0a15650b4630aaf11", "stage": "codex", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:46.009073+00:00", "run_id": "7606d0d8d7964ba0a15650b4630aaf11", "stage": "restore", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:46.009792+00:00", "run_id": "7606d0d8d7964ba0a15650b4630aaf11", "stage": "restore", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:46.015613+00:00", "run_id": "7606d0d8d7964ba0a15650b4630aaf11", "stage": "privacy", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:46.019258+00:00", "run_id": "7606d0d8d7964ba0a15650b4630aaf11", "stage": "save_report", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:46.024285+00:00", "run_id": "7606d0d8d7964ba0a15650b4630aaf11", "stage": "save_report", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:46.558486+00:00", "run_id": "4fbe29f2f534407b9adf54fd1a4f4e32", "stage": "get_tasks", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:46.585309+00:00", "run_id": "4fbe29f2f534407b9adf54fd1a4f4e32", "stage": "get_tasks", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:46.591722+00:00", "run_id": "4fbe29f2f534407b9adf54fd1a4f4e32", "stage": "get_task", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:46.595802+00:00", "run_id": "4fbe29f2f534407b9adf54fd1a4f4e32", "stage": "get_task", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:46.601256+00:00", "run_id": "4fbe29f2f534407b9adf54fd1a4f4e32", "stage": "get_reports", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:46.616800+00:00", "run_id": "4fbe29f2f534407b9adf54fd1a4f4e32", "stage": "get_reports", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:46.625619+00:00", "run_id": "4fbe29f2f534407b9adf54fd1a4f4e32", "stage": "get_history", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:46.632210+00:00", "run_id": "4fbe29f2f534407b9adf54fd1a4f4e32", "stage": "get_history", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:46.638079+00:00", "run_id": "4fbe29f2f534407b9adf54fd1a4f4e32", "stage": "normalize", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:46.639044+00:00", "run_id": "4fbe29f2f534407b9adf54fd1a4f4e32", "stage": "normalize", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:46.643950+00:00", "run_id": "4fbe29f2f534407b9adf54fd1a4f4e32", "stage": "mask", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:46.644962+00:00", "run_id": "4fbe29f2f534407b9adf54fd1a4f4e32", "stage": "mask", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:46.649730+00:00", "run_id": "4fbe29f2f534407b9adf54fd1a4f4e32", "stage": "statistics", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:46.650442+00:00", "run_id": "4fbe29f2f534407b9adf54fd1a4f4e32", "stage": "statistics", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:46.655911+00:00", "run_id": "4fbe29f2f534407b9adf54fd1a4f4e32", "stage": "privacy", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:46.661994+00:00", "run_id": "4fbe29f2f534407b9adf54fd1a4f4e32", "stage": "privacy", "status": "waiting", "task_id": null, "message": "этап остановлен: ожидается решение пользователя по персональным данным"}
+{"time": "2026-11-03T08:26:46.668426+00:00", "run_id": "4fbe29f2f534407b9adf54fd1a4f4e32", "stage": "privacy_decision", "status": "succeeded", "task_id": 1782, "action": "skip", "scope": "single_task", "message": "Решение применено только к указанной задаче"}
+{"time": "2026-11-03T08:26:46.676792+00:00", "run_id": "4fbe29f2f534407b9adf54fd1a4f4e32", "stage": "privacy", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:46.678285+00:00", "run_id": "4fbe29f2f534407b9adf54fd1a4f4e32", "stage": "privacy", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:46.682343+00:00", "run_id": "4fbe29f2f534407b9adf54fd1a4f4e32", "stage": "save_report", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:46.687809+00:00", "run_id": "4fbe29f2f534407b9adf54fd1a4f4e32", "stage": "save_report", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:47.314081+00:00", "run_id": "c92e3c4a7e7048a099ae7106e802ac88", "stage": "get_tasks", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:47.340033+00:00", "run_id": "c92e3c4a7e7048a099ae7106e802ac88", "stage": "get_tasks", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:47.347104+00:00", "run_id": "c92e3c4a7e7048a099ae7106e802ac88", "stage": "get_task", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:47.373521+00:00", "run_id": "c92e3c4a7e7048a099ae7106e802ac88", "stage": "get_task", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:47.380459+00:00", "run_id": "c92e3c4a7e7048a099ae7106e802ac88", "stage": "get_reports", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:47.403468+00:00", "run_id": "c92e3c4a7e7048a099ae7106e802ac88", "stage": "get_reports", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:47.410705+00:00", "run_id": "c92e3c4a7e7048a099ae7106e802ac88", "stage": "get_history", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:47.432158+00:00", "run_id": "c92e3c4a7e7048a099ae7106e802ac88", "stage": "get_history", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:47.437919+00:00", "run_id": "c92e3c4a7e7048a099ae7106e802ac88", "stage": "normalize", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:47.439180+00:00", "run_id": "c92e3c4a7e7048a099ae7106e802ac88", "stage": "normalize", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:47.445181+00:00", "run_id": "c92e3c4a7e7048a099ae7106e802ac88", "stage": "mask", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:47.446645+00:00", "run_id": "c92e3c4a7e7048a099ae7106e802ac88", "stage": "mask", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:47.452744+00:00", "run_id": "c92e3c4a7e7048a099ae7106e802ac88", "stage": "statistics", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:47.453645+00:00", "run_id": "c92e3c4a7e7048a099ae7106e802ac88", "stage": "statistics", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:47.459555+00:00", "run_id": "c92e3c4a7e7048a099ae7106e802ac88", "stage": "privacy", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:47.465520+00:00", "run_id": "c92e3c4a7e7048a099ae7106e802ac88", "stage": "codex", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:48.111531+00:00", "run_id": "8669c031cfce49b7af834380b37a25e6", "stage": "get_tasks", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:48.133632+00:00", "run_id": "8669c031cfce49b7af834380b37a25e6", "stage": "get_tasks", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:48.140166+00:00", "run_id": "8669c031cfce49b7af834380b37a25e6", "stage": "get_task", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:48.170380+00:00", "run_id": "8669c031cfce49b7af834380b37a25e6", "stage": "get_task", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:48.178457+00:00", "run_id": "8669c031cfce49b7af834380b37a25e6", "stage": "get_reports", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:48.181764+00:00", "run_id": "8669c031cfce49b7af834380b37a25e6", "stage": "get_reports", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:48.186525+00:00", "run_id": "8669c031cfce49b7af834380b37a25e6", "stage": "get_history", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:48.201626+00:00", "run_id": "8669c031cfce49b7af834380b37a25e6", "stage": "get_history", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:48.205579+00:00", "run_id": "8669c031cfce49b7af834380b37a25e6", "stage": "normalize", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:48.206420+00:00", "run_id": "8669c031cfce49b7af834380b37a25e6", "stage": "normalize", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:48.211258+00:00", "run_id": "8669c031cfce49b7af834380b37a25e6", "stage": "mask", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:48.211973+00:00", "run_id": "8669c031cfce49b7af834380b37a25e6", "stage": "mask", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:48.216069+00:00", "run_id": "8669c031cfce49b7af834380b37a25e6", "stage": "statistics", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:48.217612+00:00", "run_id": "8669c031cfce49b7af834380b37a25e6", "stage": "statistics", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:48.222843+00:00", "run_id": "8669c031cfce49b7af834380b37a25e6", "stage": "privacy", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:48.226690+00:00", "run_id": "8669c031cfce49b7af834380b37a25e6", "stage": "codex", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:48.227403+00:00", "run_id": "8669c031cfce49b7af834380b37a25e6", "stage": "codex", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:48.230973+00:00", "run_id": "8669c031cfce49b7af834380b37a25e6", "stage": "restore", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:48.231589+00:00", "run_id": "8669c031cfce49b7af834380b37a25e6", "stage": "restore", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:48.237379+00:00", "run_id": "8669c031cfce49b7af834380b37a25e6", "stage": "privacy", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:48.241021+00:00", "run_id": "8669c031cfce49b7af834380b37a25e6", "stage": "save_report", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:48.245709+00:00", "run_id": "8669c031cfce49b7af834380b37a25e6", "stage": "save_report", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:48.873675+00:00", "run_id": "604858b3136a4421a499208c22959efe", "stage": "get_tasks", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:48.886800+00:00", "run_id": "604858b3136a4421a499208c22959efe", "stage": "get_tasks", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:48.890616+00:00", "run_id": "604858b3136a4421a499208c22959efe", "stage": "get_task", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:48.907823+00:00", "run_id": "604858b3136a4421a499208c22959efe", "stage": "get_task", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:48.911581+00:00", "run_id": "604858b3136a4421a499208c22959efe", "stage": "get_reports", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:48.923343+00:00", "run_id": "604858b3136a4421a499208c22959efe", "stage": "get_reports", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:48.927797+00:00", "run_id": "604858b3136a4421a499208c22959efe", "stage": "get_history", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:48.938456+00:00", "run_id": "604858b3136a4421a499208c22959efe", "stage": "get_history", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:48.942701+00:00", "run_id": "604858b3136a4421a499208c22959efe", "stage": "normalize", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:48.943321+00:00", "run_id": "604858b3136a4421a499208c22959efe", "stage": "normalize", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:48.947019+00:00", "run_id": "604858b3136a4421a499208c22959efe", "stage": "mask", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:48.947720+00:00", "run_id": "604858b3136a4421a499208c22959efe", "stage": "mask", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:48.951220+00:00", "run_id": "604858b3136a4421a499208c22959efe", "stage": "statistics", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:48.951796+00:00", "run_id": "604858b3136a4421a499208c22959efe", "stage": "statistics", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:48.956332+00:00", "run_id": "604858b3136a4421a499208c22959efe", "stage": "privacy", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:48.959940+00:00", "run_id": "604858b3136a4421a499208c22959efe", "stage": "codex", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:48.960560+00:00", "run_id": "604858b3136a4421a499208c22959efe", "stage": "codex", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:48.964143+00:00", "run_id": "604858b3136a4421a499208c22959efe", "stage": "restore", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:48.964707+00:00", "run_id": "604858b3136a4421a499208c22959efe", "stage": "restore", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:48.970023+00:00", "run_id": "604858b3136a4421a499208c22959efe", "stage": "privacy", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:48.973680+00:00", "run_id": "604858b3136a4421a499208c22959efe", "stage": "save_report", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:48.978604+00:00", "run_id": "604858b3136a4421a499208c22959efe", "stage": "save_report", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:49.600670+00:00", "run_id": "cb575687332142c9bddfccb55ebc6b60", "stage": "get_tasks", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:50.256962+00:00", "run_id": "1b7afa3c1a88441cb499928d6f6b60d4", "stage": "get_tasks", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:50.259783+00:00", "run_id": "1b7afa3c1a88441cb499928d6f6b60d4", "stage": "get_tasks", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:50.264344+00:00", "run_id": "1b7afa3c1a88441cb499928d6f6b60d4", "stage": "get_task", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:50.266888+00:00", "run_id": "1b7afa3c1a88441cb499928d6f6b60d4", "stage": "get_task", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:50.270720+00:00", "run_id": "1b7afa3c1a88441cb499928d6f6b60d4", "stage": "get_history", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:50.272949+00:00", "run_id": "1b7afa3c1a88441cb499928d6f6b60d4", "stage": "get_history", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:50.277589+00:00", "run_id": "1b7afa3c1a88441cb499928d6f6b60d4", "stage": "normalize", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:50.278393+00:00", "run_id": "1b7afa3c1a88441cb499928d6f6b60d4", "stage": "normalize", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:50.282318+00:00", "run_id": "1b7afa3c1a88441cb499928d6f6b60d4", "stage": "statistics", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:50.283056+00:00", "run_id": "1b7afa3c1a88441cb499928d6f6b60d4", "stage": "statistics", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:50.289071+00:00", "run_id": "1b7afa3c1a88441cb499928d6f6b60d4", "stage": "save_report", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:50.295010+00:00", "run_id": "1b7afa3c1a88441cb499928d6f6b60d4", "stage": "save_report", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:50.395561+00:00", "run_id": "5ddfcc99209f4db2b648e4522f3a31f0", "stage": "get_tasks", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:50.398044+00:00", "run_id": "5ddfcc99209f4db2b648e4522f3a31f0", "stage": "get_tasks", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:50.402158+00:00", "run_id": "5ddfcc99209f4db2b648e4522f3a31f0", "stage": "get_task", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:50.414508+00:00", "run_id": "5ddfcc99209f4db2b648e4522f3a31f0", "stage": "get_task", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:50.418973+00:00", "run_id": "5ddfcc99209f4db2b648e4522f3a31f0", "stage": "get_history", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:50.446530+00:00", "run_id": "5ddfcc99209f4db2b648e4522f3a31f0", "stage": "get_history", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:50.453520+00:00", "run_id": "5ddfcc99209f4db2b648e4522f3a31f0", "stage": "normalize", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:50.455426+00:00", "run_id": "5ddfcc99209f4db2b648e4522f3a31f0", "stage": "normalize", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:50.461446+00:00", "run_id": "5ddfcc99209f4db2b648e4522f3a31f0", "stage": "statistics", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:50.462823+00:00", "run_id": "5ddfcc99209f4db2b648e4522f3a31f0", "stage": "statistics", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:50.471477+00:00", "run_id": "5ddfcc99209f4db2b648e4522f3a31f0", "stage": "save_report", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:50.481027+00:00", "run_id": "5ddfcc99209f4db2b648e4522f3a31f0", "stage": "save_report", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"address": "http://127.0.0.1:54605"}
+{"time": "2026-11-03T08:26:51.322834+00:00", "run_id": "7036738286a64bfe9a1483297f97896a", "stage": "get_tasks", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:51.348089+00:00", "run_id": "7036738286a64bfe9a1483297f97896a", "stage": "get_tasks", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:51.354965+00:00", "run_id": "7036738286a64bfe9a1483297f97896a", "stage": "get_task", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:51.381434+00:00", "run_id": "7036738286a64bfe9a1483297f97896a", "stage": "get_task", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:51.389519+00:00", "run_id": "7036738286a64bfe9a1483297f97896a", "stage": "get_reports", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:51.412701+00:00", "run_id": "7036738286a64bfe9a1483297f97896a", "stage": "get_reports", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:51.420873+00:00", "run_id": "7036738286a64bfe9a1483297f97896a", "stage": "get_history", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:51.443590+00:00", "run_id": "7036738286a64bfe9a1483297f97896a", "stage": "get_history", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:51.451181+00:00", "run_id": "7036738286a64bfe9a1483297f97896a", "stage": "normalize", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:51.453117+00:00", "run_id": "7036738286a64bfe9a1483297f97896a", "stage": "normalize", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:51.459696+00:00", "run_id": "7036738286a64bfe9a1483297f97896a", "stage": "mask", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:51.461142+00:00", "run_id": "7036738286a64bfe9a1483297f97896a", "stage": "mask", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:51.467461+00:00", "run_id": "7036738286a64bfe9a1483297f97896a", "stage": "statistics", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:51.468709+00:00", "run_id": "7036738286a64bfe9a1483297f97896a", "stage": "statistics", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:51.475598+00:00", "run_id": "7036738286a64bfe9a1483297f97896a", "stage": "privacy", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:51.482420+00:00", "run_id": "7036738286a64bfe9a1483297f97896a", "stage": "codex", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:51.539660+00:00", "run_id": "7036738286a64bfe9a1483297f97896a", "stage": "codex", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:51.544126+00:00", "run_id": "7036738286a64bfe9a1483297f97896a", "stage": "restore", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:51.544661+00:00", "run_id": "7036738286a64bfe9a1483297f97896a", "stage": "restore", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:51.550455+00:00", "run_id": "7036738286a64bfe9a1483297f97896a", "stage": "privacy", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:51.554052+00:00", "run_id": "7036738286a64bfe9a1483297f97896a", "stage": "save_report", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:51.559965+00:00", "run_id": "7036738286a64bfe9a1483297f97896a", "stage": "save_report", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:52.101042+00:00", "run_id": "83b0836c6ddc4e36b80f8e174c4b3ade", "stage": "get_tasks", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:52.124430+00:00", "run_id": "83b0836c6ddc4e36b80f8e174c4b3ade", "stage": "get_tasks", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:52.131580+00:00", "run_id": "83b0836c6ddc4e36b80f8e174c4b3ade", "stage": "get_task", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:52.156186+00:00", "run_id": "83b0836c6ddc4e36b80f8e174c4b3ade", "stage": "get_task", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:52.163598+00:00", "run_id": "83b0836c6ddc4e36b80f8e174c4b3ade", "stage": "get_reports", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:52.192194+00:00", "run_id": "83b0836c6ddc4e36b80f8e174c4b3ade", "stage": "get_reports", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:52.199819+00:00", "run_id": "83b0836c6ddc4e36b80f8e174c4b3ade", "stage": "get_history", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:52.227761+00:00", "run_id": "83b0836c6ddc4e36b80f8e174c4b3ade", "stage": "get_history", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:52.235567+00:00", "run_id": "83b0836c6ddc4e36b80f8e174c4b3ade", "stage": "normalize", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:52.236956+00:00", "run_id": "83b0836c6ddc4e36b80f8e174c4b3ade", "stage": "normalize", "status": "failed", "task_id": "1782", "message": "этап остановлен: Нет события создания задачи в истории: createdDate", "reason_code": "creation_missing"}
+{"time": "2026-11-03T08:26:52.243081+00:00", "run_id": "83b0836c6ddc4e36b80f8e174c4b3ade", "stage": "statistics", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:52.244462+00:00", "run_id": "83b0836c6ddc4e36b80f8e174c4b3ade", "stage": "statistics", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:52.252914+00:00", "run_id": "83b0836c6ddc4e36b80f8e174c4b3ade", "stage": "privacy", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:52.256685+00:00", "run_id": "83b0836c6ddc4e36b80f8e174c4b3ade", "stage": "privacy", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:52.262972+00:00", "run_id": "83b0836c6ddc4e36b80f8e174c4b3ade", "stage": "save_report", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:52.271840+00:00", "run_id": "83b0836c6ddc4e36b80f8e174c4b3ade", "stage": "save_report", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:52.880711+00:00", "run_id": "975020694bcf4bbe9130f8ad83df9546", "stage": "get_tasks", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:52.885688+00:00", "run_id": "975020694bcf4bbe9130f8ad83df9546", "stage": "get_tasks", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:52.890483+00:00", "run_id": "975020694bcf4bbe9130f8ad83df9546", "stage": "get_task", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:52.920115+00:00", "run_id": "975020694bcf4bbe9130f8ad83df9546", "stage": "get_task", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:52.927699+00:00", "run_id": "975020694bcf4bbe9130f8ad83df9546", "stage": "get_reports", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:52.950282+00:00", "run_id": "975020694bcf4bbe9130f8ad83df9546", "stage": "get_reports", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:52.957025+00:00", "run_id": "975020694bcf4bbe9130f8ad83df9546", "stage": "get_history", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:52.981572+00:00", "run_id": "975020694bcf4bbe9130f8ad83df9546", "stage": "get_history", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:52.989172+00:00", "run_id": "975020694bcf4bbe9130f8ad83df9546", "stage": "normalize", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:52.991309+00:00", "run_id": "975020694bcf4bbe9130f8ad83df9546", "stage": "normalize", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:52.998497+00:00", "run_id": "975020694bcf4bbe9130f8ad83df9546", "stage": "mask", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:53.000162+00:00", "run_id": "975020694bcf4bbe9130f8ad83df9546", "stage": "mask", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:53.006353+00:00", "run_id": "975020694bcf4bbe9130f8ad83df9546", "stage": "get_task", "status": "started", "task_id": "1783", "message": "этап начался"}
+{"time": "2026-11-03T08:26:53.029282+00:00", "run_id": "975020694bcf4bbe9130f8ad83df9546", "stage": "get_task", "status": "succeeded", "task_id": "1783", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:53.037407+00:00", "run_id": "975020694bcf4bbe9130f8ad83df9546", "stage": "get_reports", "status": "started", "task_id": "1783", "message": "этап начался"}
+{"time": "2026-11-03T08:26:53.058345+00:00", "run_id": "975020694bcf4bbe9130f8ad83df9546", "stage": "get_reports", "status": "succeeded", "task_id": "1783", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:53.065141+00:00", "run_id": "975020694bcf4bbe9130f8ad83df9546", "stage": "get_history", "status": "started", "task_id": "1783", "message": "этап начался"}
+{"time": "2026-11-03T08:26:53.089051+00:00", "run_id": "975020694bcf4bbe9130f8ad83df9546", "stage": "get_history", "status": "succeeded", "task_id": "1783", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:53.095846+00:00", "run_id": "975020694bcf4bbe9130f8ad83df9546", "stage": "normalize", "status": "started", "task_id": "1783", "message": "этап начался"}
+{"time": "2026-11-03T08:26:53.097345+00:00", "run_id": "975020694bcf4bbe9130f8ad83df9546", "stage": "normalize", "status": "succeeded", "task_id": "1783", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:53.103410+00:00", "run_id": "975020694bcf4bbe9130f8ad83df9546", "stage": "mask", "status": "started", "task_id": "1783", "message": "этап начался"}
+{"time": "2026-11-03T08:26:53.104889+00:00", "run_id": "975020694bcf4bbe9130f8ad83df9546", "stage": "mask", "status": "succeeded", "task_id": "1783", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:53.110929+00:00", "run_id": "975020694bcf4bbe9130f8ad83df9546", "stage": "statistics", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:53.112562+00:00", "run_id": "975020694bcf4bbe9130f8ad83df9546", "stage": "statistics", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:53.119859+00:00", "run_id": "975020694bcf4bbe9130f8ad83df9546", "stage": "privacy", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:53.127717+00:00", "run_id": "975020694bcf4bbe9130f8ad83df9546", "stage": "privacy", "status": "waiting", "task_id": null, "message": "этап остановлен: ожидается решение пользователя по персональным данным"}
+{"time": "2026-11-03T08:26:53.131440+00:00", "run_id": "975020694bcf4bbe9130f8ad83df9546", "stage": "privacy_decision", "status": "succeeded", "task_id": 1782, "action": "skip", "scope": "single_task", "message": "Решение применено только к указанной задаче"}
+{"time": "2026-11-03T08:26:53.759192+00:00", "run_id": "0ff614f86d8340118581a410c9a26f1f", "stage": "get_tasks", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:53.762918+00:00", "run_id": "0ff614f86d8340118581a410c9a26f1f", "stage": "get_tasks", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:53.766805+00:00", "run_id": "0ff614f86d8340118581a410c9a26f1f", "stage": "get_task", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:53.782611+00:00", "run_id": "0ff614f86d8340118581a410c9a26f1f", "stage": "get_task", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:53.787019+00:00", "run_id": "0ff614f86d8340118581a410c9a26f1f", "stage": "get_reports", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:53.813549+00:00", "run_id": "0ff614f86d8340118581a410c9a26f1f", "stage": "get_reports", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:53.818049+00:00", "run_id": "0ff614f86d8340118581a410c9a26f1f", "stage": "get_history", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:53.822160+00:00", "run_id": "0ff614f86d8340118581a410c9a26f1f", "stage": "get_history", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:53.828215+00:00", "run_id": "0ff614f86d8340118581a410c9a26f1f", "stage": "normalize", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:53.829108+00:00", "run_id": "0ff614f86d8340118581a410c9a26f1f", "stage": "normalize", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:53.833625+00:00", "run_id": "0ff614f86d8340118581a410c9a26f1f", "stage": "mask", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:53.834749+00:00", "run_id": "0ff614f86d8340118581a410c9a26f1f", "stage": "mask", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:53.839956+00:00", "run_id": "0ff614f86d8340118581a410c9a26f1f", "stage": "get_task", "status": "started", "task_id": "1783", "message": "этап начался"}
+{"time": "2026-11-03T08:26:53.842767+00:00", "run_id": "0ff614f86d8340118581a410c9a26f1f", "stage": "get_task", "status": "succeeded", "task_id": "1783", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:53.847921+00:00", "run_id": "0ff614f86d8340118581a410c9a26f1f", "stage": "get_reports", "status": "started", "task_id": "1783", "message": "этап начался"}
+{"time": "2026-11-03T08:26:53.860371+00:00", "run_id": "0ff614f86d8340118581a410c9a26f1f", "stage": "get_reports", "status": "succeeded", "task_id": "1783", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:53.870667+00:00", "run_id": "0ff614f86d8340118581a410c9a26f1f", "stage": "get_history", "status": "started", "task_id": "1783", "message": "этап начался"}
+{"time": "2026-11-03T08:26:53.875253+00:00", "run_id": "0ff614f86d8340118581a410c9a26f1f", "stage": "get_history", "status": "succeeded", "task_id": "1783", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:53.882576+00:00", "run_id": "0ff614f86d8340118581a410c9a26f1f", "stage": "normalize", "status": "started", "task_id": "1783", "message": "этап начался"}
+{"time": "2026-11-03T08:26:53.883990+00:00", "run_id": "0ff614f86d8340118581a410c9a26f1f", "stage": "normalize", "status": "succeeded", "task_id": "1783", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:53.890373+00:00", "run_id": "0ff614f86d8340118581a410c9a26f1f", "stage": "mask", "status": "started", "task_id": "1783", "message": "этап начался"}
+{"time": "2026-11-03T08:26:53.891976+00:00", "run_id": "0ff614f86d8340118581a410c9a26f1f", "stage": "mask", "status": "succeeded", "task_id": "1783", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:53.897946+00:00", "run_id": "0ff614f86d8340118581a410c9a26f1f", "stage": "statistics", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:53.899061+00:00", "run_id": "0ff614f86d8340118581a410c9a26f1f", "stage": "statistics", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:53.905205+00:00", "run_id": "0ff614f86d8340118581a410c9a26f1f", "stage": "privacy", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:53.910811+00:00", "run_id": "0ff614f86d8340118581a410c9a26f1f", "stage": "codex", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:53.911832+00:00", "run_id": "0ff614f86d8340118581a410c9a26f1f", "stage": "codex", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:53.917252+00:00", "run_id": "0ff614f86d8340118581a410c9a26f1f", "stage": "restore", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:53.918129+00:00", "run_id": "0ff614f86d8340118581a410c9a26f1f", "stage": "restore", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:53.924335+00:00", "run_id": "0ff614f86d8340118581a410c9a26f1f", "stage": "codex", "status": "started", "task_id": "1783", "message": "этап начался"}
+{"time": "2026-11-03T08:26:53.925223+00:00", "run_id": "0ff614f86d8340118581a410c9a26f1f", "stage": "codex", "status": "succeeded", "task_id": "1783", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:53.930816+00:00", "run_id": "0ff614f86d8340118581a410c9a26f1f", "stage": "restore", "status": "started", "task_id": "1783", "message": "этап начался"}
+{"time": "2026-11-03T08:26:53.931725+00:00", "run_id": "0ff614f86d8340118581a410c9a26f1f", "stage": "restore", "status": "succeeded", "task_id": "1783", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:53.939626+00:00", "run_id": "0ff614f86d8340118581a410c9a26f1f", "stage": "privacy", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:53.945302+00:00", "run_id": "0ff614f86d8340118581a410c9a26f1f", "stage": "save_report", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:53.953269+00:00", "run_id": "0ff614f86d8340118581a410c9a26f1f", "stage": "save_report", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:54.538214+00:00", "run_id": "a5d31c6b55ae4620ade22a0a9766d251", "stage": "get_tasks", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:54.551291+00:00", "run_id": "a5d31c6b55ae4620ade22a0a9766d251", "stage": "get_tasks", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:54.556008+00:00", "run_id": "a5d31c6b55ae4620ade22a0a9766d251", "stage": "get_task", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:54.585477+00:00", "run_id": "a5d31c6b55ae4620ade22a0a9766d251", "stage": "get_task", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:54.593486+00:00", "run_id": "a5d31c6b55ae4620ade22a0a9766d251", "stage": "get_reports", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:54.616362+00:00", "run_id": "a5d31c6b55ae4620ade22a0a9766d251", "stage": "get_reports", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:54.623851+00:00", "run_id": "a5d31c6b55ae4620ade22a0a9766d251", "stage": "get_history", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:54.629906+00:00", "run_id": "a5d31c6b55ae4620ade22a0a9766d251", "stage": "get_history", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:54.636945+00:00", "run_id": "a5d31c6b55ae4620ade22a0a9766d251", "stage": "normalize", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:54.638141+00:00", "run_id": "a5d31c6b55ae4620ade22a0a9766d251", "stage": "normalize", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:54.644506+00:00", "run_id": "a5d31c6b55ae4620ade22a0a9766d251", "stage": "mask", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:54.645940+00:00", "run_id": "a5d31c6b55ae4620ade22a0a9766d251", "stage": "mask", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:54.651902+00:00", "run_id": "a5d31c6b55ae4620ade22a0a9766d251", "stage": "statistics", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:54.653237+00:00", "run_id": "a5d31c6b55ae4620ade22a0a9766d251", "stage": "statistics", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:54.660472+00:00", "run_id": "a5d31c6b55ae4620ade22a0a9766d251", "stage": "privacy", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:54.668202+00:00", "run_id": "a5d31c6b55ae4620ade22a0a9766d251", "stage": "privacy", "status": "waiting", "task_id": null, "message": "этап остановлен: ожидается решение пользователя по персональным данным"}
+{"time": "2026-11-03T08:26:54.674635+00:00", "run_id": "a5d31c6b55ae4620ade22a0a9766d251", "stage": "privacy_decision", "status": "succeeded", "task_id": 1782, "action": "clean", "scope": "single_task", "message": "Решение применено только к указанной задаче"}
+{"time": "2026-11-03T08:26:55.306245+00:00", "run_id": "f93cc81ffd3c4ae98ae69b3080c13d1b", "stage": "get_tasks", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:55.308748+00:00", "run_id": "f93cc81ffd3c4ae98ae69b3080c13d1b", "stage": "get_tasks", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:55.313703+00:00", "run_id": "f93cc81ffd3c4ae98ae69b3080c13d1b", "stage": "get_task", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:55.315945+00:00", "run_id": "f93cc81ffd3c4ae98ae69b3080c13d1b", "stage": "get_task", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:55.319865+00:00", "run_id": "f93cc81ffd3c4ae98ae69b3080c13d1b", "stage": "get_reports", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:55.333409+00:00", "run_id": "f93cc81ffd3c4ae98ae69b3080c13d1b", "stage": "get_reports", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:55.339536+00:00", "run_id": "f93cc81ffd3c4ae98ae69b3080c13d1b", "stage": "get_history", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:55.342849+00:00", "run_id": "f93cc81ffd3c4ae98ae69b3080c13d1b", "stage": "get_history", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:55.348505+00:00", "run_id": "f93cc81ffd3c4ae98ae69b3080c13d1b", "stage": "normalize", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:55.349590+00:00", "run_id": "f93cc81ffd3c4ae98ae69b3080c13d1b", "stage": "normalize", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:55.354510+00:00", "run_id": "f93cc81ffd3c4ae98ae69b3080c13d1b", "stage": "mask", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:55.355846+00:00", "run_id": "f93cc81ffd3c4ae98ae69b3080c13d1b", "stage": "mask", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:55.361047+00:00", "run_id": "f93cc81ffd3c4ae98ae69b3080c13d1b", "stage": "statistics", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:55.361873+00:00", "run_id": "f93cc81ffd3c4ae98ae69b3080c13d1b", "stage": "statistics", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:55.367154+00:00", "run_id": "f93cc81ffd3c4ae98ae69b3080c13d1b", "stage": "privacy", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:55.372949+00:00", "run_id": "f93cc81ffd3c4ae98ae69b3080c13d1b", "stage": "privacy", "status": "waiting", "task_id": null, "message": "этап остановлен: ожидается решение пользователя по персональным данным"}
+{"time": "2026-11-03T08:26:55.381219+00:00", "run_id": "f93cc81ffd3c4ae98ae69b3080c13d1b", "stage": "privacy_decision", "status": "succeeded", "task_id": 1782, "action": "clean", "scope": "single_task", "message": "Решение применено только к указанной задаче"}
+{"time": "2026-11-03T08:26:55.390603+00:00", "run_id": "f93cc81ffd3c4ae98ae69b3080c13d1b", "stage": "privacy", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:55.394583+00:00", "run_id": "f93cc81ffd3c4ae98ae69b3080c13d1b", "stage": "codex", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:55.395359+00:00", "run_id": "f93cc81ffd3c4ae98ae69b3080c13d1b", "stage": "codex", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:55.399672+00:00", "run_id": "f93cc81ffd3c4ae98ae69b3080c13d1b", "stage": "restore", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:55.400634+00:00", "run_id": "f93cc81ffd3c4ae98ae69b3080c13d1b", "stage": "restore", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:55.407327+00:00", "run_id": "f93cc81ffd3c4ae98ae69b3080c13d1b", "stage": "privacy", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:55.412098+00:00", "run_id": "f93cc81ffd3c4ae98ae69b3080c13d1b", "stage": "save_report", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:55.418538+00:00", "run_id": "f93cc81ffd3c4ae98ae69b3080c13d1b", "stage": "save_report", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:56.006395+00:00", "run_id": "33b2d85d66c44d18a638537137f55320", "stage": "get_tasks", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:56.023718+00:00", "run_id": "33b2d85d66c44d18a638537137f55320", "stage": "get_tasks", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:56.028533+00:00", "run_id": "33b2d85d66c44d18a638537137f55320", "stage": "get_task", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:56.031239+00:00", "run_id": "33b2d85d66c44d18a638537137f55320", "stage": "get_task", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:56.035444+00:00", "run_id": "33b2d85d66c44d18a638537137f55320", "stage": "get_reports", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:56.055708+00:00", "run_id": "33b2d85d66c44d18a638537137f55320", "stage": "get_reports", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:56.063322+00:00", "run_id": "33b2d85d66c44d18a638537137f55320", "stage": "get_history", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:56.086780+00:00", "run_id": "33b2d85d66c44d18a638537137f55320", "stage": "get_history", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:56.094893+00:00", "run_id": "33b2d85d66c44d18a638537137f55320", "stage": "normalize", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:56.097754+00:00", "run_id": "33b2d85d66c44d18a638537137f55320", "stage": "normalize", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:56.105622+00:00", "run_id": "33b2d85d66c44d18a638537137f55320", "stage": "mask", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:56.107272+00:00", "run_id": "33b2d85d66c44d18a638537137f55320", "stage": "mask", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:56.113497+00:00", "run_id": "33b2d85d66c44d18a638537137f55320", "stage": "statistics", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:56.115339+00:00", "run_id": "33b2d85d66c44d18a638537137f55320", "stage": "statistics", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:56.122749+00:00", "run_id": "33b2d85d66c44d18a638537137f55320", "stage": "privacy", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:56.130933+00:00", "run_id": "33b2d85d66c44d18a638537137f55320", "stage": "privacy", "status": "waiting", "task_id": null, "message": "этап остановлен: ожидается решение пользователя по персональным данным"}
+{"time": "2026-11-03T08:26:56.140157+00:00", "run_id": "33b2d85d66c44d18a638537137f55320", "stage": "privacy_decision", "status": "succeeded", "task_id": 1782, "action": "continue", "scope": "single_task", "message": "Решение применено только к указанной задаче"}
+{"time": "2026-11-03T08:26:56.152467+00:00", "run_id": "33b2d85d66c44d18a638537137f55320", "stage": "privacy", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:56.157782+00:00", "run_id": "33b2d85d66c44d18a638537137f55320", "stage": "codex", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:56.158774+00:00", "run_id": "33b2d85d66c44d18a638537137f55320", "stage": "codex", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:56.164028+00:00", "run_id": "33b2d85d66c44d18a638537137f55320", "stage": "restore", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:56.164847+00:00", "run_id": "33b2d85d66c44d18a638537137f55320", "stage": "restore", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:56.171526+00:00", "run_id": "33b2d85d66c44d18a638537137f55320", "stage": "privacy", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:56.175753+00:00", "run_id": "33b2d85d66c44d18a638537137f55320", "stage": "save_report", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:56.181476+00:00", "run_id": "33b2d85d66c44d18a638537137f55320", "stage": "save_report", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:56.726645+00:00", "run_id": "37ae31d3a2774fe68ee5868cb697813d", "stage": "get_tasks", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:56.729267+00:00", "run_id": "37ae31d3a2774fe68ee5868cb697813d", "stage": "get_tasks", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:56.733724+00:00", "run_id": "37ae31d3a2774fe68ee5868cb697813d", "stage": "get_task", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:56.736317+00:00", "run_id": "37ae31d3a2774fe68ee5868cb697813d", "stage": "get_task", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:56.740178+00:00", "run_id": "37ae31d3a2774fe68ee5868cb697813d", "stage": "get_reports", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:56.741864+00:00", "run_id": "37ae31d3a2774fe68ee5868cb697813d", "stage": "get_reports", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:56.746050+00:00", "run_id": "37ae31d3a2774fe68ee5868cb697813d", "stage": "get_history", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:56.747835+00:00", "run_id": "37ae31d3a2774fe68ee5868cb697813d", "stage": "get_history", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:56.752197+00:00", "run_id": "37ae31d3a2774fe68ee5868cb697813d", "stage": "normalize", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:56.752877+00:00", "run_id": "37ae31d3a2774fe68ee5868cb697813d", "stage": "normalize", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:56.756685+00:00", "run_id": "37ae31d3a2774fe68ee5868cb697813d", "stage": "mask", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:56.757466+00:00", "run_id": "37ae31d3a2774fe68ee5868cb697813d", "stage": "mask", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:56.761217+00:00", "run_id": "37ae31d3a2774fe68ee5868cb697813d", "stage": "statistics", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:56.761949+00:00", "run_id": "37ae31d3a2774fe68ee5868cb697813d", "stage": "statistics", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:56.766433+00:00", "run_id": "37ae31d3a2774fe68ee5868cb697813d", "stage": "privacy", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:56.771426+00:00", "run_id": "37ae31d3a2774fe68ee5868cb697813d", "stage": "privacy", "status": "waiting", "task_id": null, "message": "этап остановлен: ожидается решение пользователя по персональным данным"}
+{"time": "2026-11-03T08:26:56.777094+00:00", "run_id": "37ae31d3a2774fe68ee5868cb697813d", "stage": "privacy_decision", "status": "succeeded", "task_id": 1782, "action": "skip", "scope": "single_task", "message": "Решение применено только к указанной задаче"}
+{"time": "2026-11-03T08:26:56.784778+00:00", "run_id": "37ae31d3a2774fe68ee5868cb697813d", "stage": "privacy", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:56.785986+00:00", "run_id": "37ae31d3a2774fe68ee5868cb697813d", "stage": "privacy", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:56.790112+00:00", "run_id": "37ae31d3a2774fe68ee5868cb697813d", "stage": "save_report", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:56.794899+00:00", "run_id": "37ae31d3a2774fe68ee5868cb697813d", "stage": "save_report", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:57.425730+00:00", "run_id": "3490d9e4005f4f35b8fe724471616410", "stage": "get_tasks", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:57.448650+00:00", "run_id": "3490d9e4005f4f35b8fe724471616410", "stage": "get_tasks", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:57.455828+00:00", "run_id": "3490d9e4005f4f35b8fe724471616410", "stage": "get_task", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:57.479544+00:00", "run_id": "3490d9e4005f4f35b8fe724471616410", "stage": "get_task", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:57.486279+00:00", "run_id": "3490d9e4005f4f35b8fe724471616410", "stage": "get_reports", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:57.510421+00:00", "run_id": "3490d9e4005f4f35b8fe724471616410", "stage": "get_reports", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:57.517583+00:00", "run_id": "3490d9e4005f4f35b8fe724471616410", "stage": "get_history", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:57.540972+00:00", "run_id": "3490d9e4005f4f35b8fe724471616410", "stage": "get_history", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:57.546402+00:00", "run_id": "3490d9e4005f4f35b8fe724471616410", "stage": "normalize", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:57.547683+00:00", "run_id": "3490d9e4005f4f35b8fe724471616410", "stage": "normalize", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:57.553540+00:00", "run_id": "3490d9e4005f4f35b8fe724471616410", "stage": "mask", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:57.555002+00:00", "run_id": "3490d9e4005f4f35b8fe724471616410", "stage": "mask", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:57.561324+00:00", "run_id": "3490d9e4005f4f35b8fe724471616410", "stage": "statistics", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:57.562624+00:00", "run_id": "3490d9e4005f4f35b8fe724471616410", "stage": "statistics", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:57.569525+00:00", "run_id": "3490d9e4005f4f35b8fe724471616410", "stage": "privacy", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:57.577993+00:00", "run_id": "3490d9e4005f4f35b8fe724471616410", "stage": "privacy", "status": "waiting", "task_id": null, "message": "этап остановлен: ожидается решение пользователя по персональным данным"}
+{"time": "2026-11-03T08:26:58.181172+00:00", "run_id": "f78b443f0e144bef8fb4695a2e6e0c96", "stage": "get_tasks", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:58.193656+00:00", "run_id": "f78b443f0e144bef8fb4695a2e6e0c96", "stage": "get_tasks", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:58.198344+00:00", "run_id": "f78b443f0e144bef8fb4695a2e6e0c96", "stage": "get_task", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:58.228120+00:00", "run_id": "f78b443f0e144bef8fb4695a2e6e0c96", "stage": "get_task", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:58.236899+00:00", "run_id": "f78b443f0e144bef8fb4695a2e6e0c96", "stage": "get_reports", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:58.256729+00:00", "run_id": "f78b443f0e144bef8fb4695a2e6e0c96", "stage": "get_reports", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:58.263834+00:00", "run_id": "f78b443f0e144bef8fb4695a2e6e0c96", "stage": "get_history", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:58.286289+00:00", "run_id": "f78b443f0e144bef8fb4695a2e6e0c96", "stage": "get_history", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:58.290985+00:00", "run_id": "f78b443f0e144bef8fb4695a2e6e0c96", "stage": "normalize", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:58.292519+00:00", "run_id": "f78b443f0e144bef8fb4695a2e6e0c96", "stage": "normalize", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:58.297023+00:00", "run_id": "f78b443f0e144bef8fb4695a2e6e0c96", "stage": "mask", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:58.297771+00:00", "run_id": "f78b443f0e144bef8fb4695a2e6e0c96", "stage": "mask", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:58.301823+00:00", "run_id": "f78b443f0e144bef8fb4695a2e6e0c96", "stage": "statistics", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:58.302408+00:00", "run_id": "f78b443f0e144bef8fb4695a2e6e0c96", "stage": "statistics", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:58.307146+00:00", "run_id": "f78b443f0e144bef8fb4695a2e6e0c96", "stage": "privacy", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:58.310719+00:00", "run_id": "f78b443f0e144bef8fb4695a2e6e0c96", "stage": "codex", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:58.311326+00:00", "run_id": "f78b443f0e144bef8fb4695a2e6e0c96", "stage": "codex", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:58.315045+00:00", "run_id": "f78b443f0e144bef8fb4695a2e6e0c96", "stage": "restore", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:58.316337+00:00", "run_id": "f78b443f0e144bef8fb4695a2e6e0c96", "stage": "restore", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:58.322120+00:00", "run_id": "f78b443f0e144bef8fb4695a2e6e0c96", "stage": "privacy", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:58.326523+00:00", "run_id": "f78b443f0e144bef8fb4695a2e6e0c96", "stage": "save_report", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:58.332396+00:00", "run_id": "f78b443f0e144bef8fb4695a2e6e0c96", "stage": "save_report", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:58.952254+00:00", "run_id": "37d56294f2984b639cde5d7c417afe39", "stage": "get_tasks", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:58.979836+00:00", "run_id": "37d56294f2984b639cde5d7c417afe39", "stage": "get_tasks", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:58.986478+00:00", "run_id": "37d56294f2984b639cde5d7c417afe39", "stage": "get_task", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:59.012518+00:00", "run_id": "37d56294f2984b639cde5d7c417afe39", "stage": "get_task", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:59.019454+00:00", "run_id": "37d56294f2984b639cde5d7c417afe39", "stage": "get_reports", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:59.043847+00:00", "run_id": "37d56294f2984b639cde5d7c417afe39", "stage": "get_reports", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:59.051107+00:00", "run_id": "37d56294f2984b639cde5d7c417afe39", "stage": "get_history", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:59.055848+00:00", "run_id": "37d56294f2984b639cde5d7c417afe39", "stage": "get_history", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:59.061841+00:00", "run_id": "37d56294f2984b639cde5d7c417afe39", "stage": "normalize", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:59.063369+00:00", "run_id": "37d56294f2984b639cde5d7c417afe39", "stage": "normalize", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:59.069713+00:00", "run_id": "37d56294f2984b639cde5d7c417afe39", "stage": "mask", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:59.071015+00:00", "run_id": "37d56294f2984b639cde5d7c417afe39", "stage": "mask", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:59.076006+00:00", "run_id": "37d56294f2984b639cde5d7c417afe39", "stage": "statistics", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:59.077115+00:00", "run_id": "37d56294f2984b639cde5d7c417afe39", "stage": "statistics", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:59.083313+00:00", "run_id": "37d56294f2984b639cde5d7c417afe39", "stage": "privacy", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:59.087668+00:00", "run_id": "37d56294f2984b639cde5d7c417afe39", "stage": "codex", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:59.088803+00:00", "run_id": "37d56294f2984b639cde5d7c417afe39", "stage": "codex", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:59.093196+00:00", "run_id": "37d56294f2984b639cde5d7c417afe39", "stage": "restore", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:59.093904+00:00", "run_id": "37d56294f2984b639cde5d7c417afe39", "stage": "restore", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:59.099419+00:00", "run_id": "37d56294f2984b639cde5d7c417afe39", "stage": "privacy", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:59.103158+00:00", "run_id": "37d56294f2984b639cde5d7c417afe39", "stage": "save_report", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:59.108045+00:00", "run_id": "37d56294f2984b639cde5d7c417afe39", "stage": "save_report", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:59.733602+00:00", "run_id": "67affb05e07c4fceb26acee0ca68211a", "stage": "get_tasks", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:59.758103+00:00", "run_id": "67affb05e07c4fceb26acee0ca68211a", "stage": "get_tasks", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:59.764101+00:00", "run_id": "67affb05e07c4fceb26acee0ca68211a", "stage": "get_task", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:59.789165+00:00", "run_id": "67affb05e07c4fceb26acee0ca68211a", "stage": "get_task", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:59.794700+00:00", "run_id": "67affb05e07c4fceb26acee0ca68211a", "stage": "get_reports", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:59.821471+00:00", "run_id": "67affb05e07c4fceb26acee0ca68211a", "stage": "get_reports", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:59.828611+00:00", "run_id": "67affb05e07c4fceb26acee0ca68211a", "stage": "get_history", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:59.851954+00:00", "run_id": "67affb05e07c4fceb26acee0ca68211a", "stage": "get_history", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:59.859791+00:00", "run_id": "67affb05e07c4fceb26acee0ca68211a", "stage": "normalize", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:59.861792+00:00", "run_id": "67affb05e07c4fceb26acee0ca68211a", "stage": "normalize", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:59.868813+00:00", "run_id": "67affb05e07c4fceb26acee0ca68211a", "stage": "mask", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:26:59.870484+00:00", "run_id": "67affb05e07c4fceb26acee0ca68211a", "stage": "mask", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:59.877196+00:00", "run_id": "67affb05e07c4fceb26acee0ca68211a", "stage": "statistics", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:59.878509+00:00", "run_id": "67affb05e07c4fceb26acee0ca68211a", "stage": "statistics", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:26:59.885463+00:00", "run_id": "67affb05e07c4fceb26acee0ca68211a", "stage": "privacy", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:26:59.891977+00:00", "run_id": "67affb05e07c4fceb26acee0ca68211a", "stage": "privacy", "status": "waiting", "task_id": null, "message": "этап остановлен: ожидается решение пользователя по персональным данным"}
+{"time": "2026-11-03T08:27:00.508855+00:00", "run_id": "c9ebfd2aecd24b66ac286fe5ac59c283", "stage": "get_tasks", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:27:00.546036+00:00", "run_id": "c9ebfd2aecd24b66ac286fe5ac59c283", "stage": "get_tasks", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:27:00.553843+00:00", "run_id": "c9ebfd2aecd24b66ac286fe5ac59c283", "stage": "get_task", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:27:00.557112+00:00", "run_id": "c9ebfd2aecd24b66ac286fe5ac59c283", "stage": "get_task", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:27:00.560892+00:00", "run_id": "c9ebfd2aecd24b66ac286fe5ac59c283", "stage": "get_reports", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:27:00.563256+00:00", "run_id": "c9ebfd2aecd24b66ac286fe5ac59c283", "stage": "get_reports", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:27:00.567819+00:00", "run_id": "c9ebfd2aecd24b66ac286fe5ac59c283", "stage": "get_history", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:27:00.588199+00:00", "run_id": "c9ebfd2aecd24b66ac286fe5ac59c283", "stage": "get_history", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:27:00.593516+00:00", "run_id": "c9ebfd2aecd24b66ac286fe5ac59c283", "stage": "normalize", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:27:00.594573+00:00", "run_id": "c9ebfd2aecd24b66ac286fe5ac59c283", "stage": "normalize", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:27:00.599863+00:00", "run_id": "c9ebfd2aecd24b66ac286fe5ac59c283", "stage": "mask", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:27:00.601241+00:00", "run_id": "c9ebfd2aecd24b66ac286fe5ac59c283", "stage": "mask", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:27:00.606983+00:00", "run_id": "c9ebfd2aecd24b66ac286fe5ac59c283", "stage": "get_task", "status": "started", "task_id": "1783", "message": "этап начался"}
+{"time": "2026-11-03T08:27:00.620927+00:00", "run_id": "c9ebfd2aecd24b66ac286fe5ac59c283", "stage": "get_task", "status": "succeeded", "task_id": "1783", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:27:00.627573+00:00", "run_id": "c9ebfd2aecd24b66ac286fe5ac59c283", "stage": "get_reports", "status": "started", "task_id": "1783", "message": "этап начался"}
+{"time": "2026-11-03T08:27:00.631733+00:00", "run_id": "c9ebfd2aecd24b66ac286fe5ac59c283", "stage": "get_reports", "status": "succeeded", "task_id": "1783", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:27:00.636936+00:00", "run_id": "c9ebfd2aecd24b66ac286fe5ac59c283", "stage": "get_history", "status": "started", "task_id": "1783", "message": "этап начался"}
+{"time": "2026-11-03T08:27:00.653834+00:00", "run_id": "c9ebfd2aecd24b66ac286fe5ac59c283", "stage": "get_history", "status": "succeeded", "task_id": "1783", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:27:00.661021+00:00", "run_id": "c9ebfd2aecd24b66ac286fe5ac59c283", "stage": "normalize", "status": "started", "task_id": "1783", "message": "этап начался"}
+{"time": "2026-11-03T08:27:00.662774+00:00", "run_id": "c9ebfd2aecd24b66ac286fe5ac59c283", "stage": "normalize", "status": "succeeded", "task_id": "1783", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:27:00.669416+00:00", "run_id": "c9ebfd2aecd24b66ac286fe5ac59c283", "stage": "mask", "status": "started", "task_id": "1783", "message": "этап начался"}
+{"time": "2026-11-03T08:27:00.671008+00:00", "run_id": "c9ebfd2aecd24b66ac286fe5ac59c283", "stage": "mask", "status": "succeeded", "task_id": "1783", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:27:00.676598+00:00", "run_id": "c9ebfd2aecd24b66ac286fe5ac59c283", "stage": "statistics", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:27:00.677713+00:00", "run_id": "c9ebfd2aecd24b66ac286fe5ac59c283", "stage": "statistics", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:27:00.684573+00:00", "run_id": "c9ebfd2aecd24b66ac286fe5ac59c283", "stage": "privacy", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:27:00.691756+00:00", "run_id": "c9ebfd2aecd24b66ac286fe5ac59c283", "stage": "privacy", "status": "waiting", "task_id": null, "message": "этап остановлен: ожидается решение пользователя по персональным данным"}
+{"time": "2026-11-03T08:27:00.702921+00:00", "run_id": "c9ebfd2aecd24b66ac286fe5ac59c283", "stage": "privacy_decision", "status": "succeeded", "task_id": 1782, "action": "skip", "scope": "single_task", "message": "Решение применено только к указанной задаче"}
+{"time": "2026-11-03T08:27:00.714509+00:00", "run_id": "c9ebfd2aecd24b66ac286fe5ac59c283", "stage": "privacy", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:27:00.719004+00:00", "run_id": "c9ebfd2aecd24b66ac286fe5ac59c283", "stage": "codex", "status": "started", "task_id": "1783", "message": "этап начался"}
+{"time": "2026-11-03T08:27:00.719886+00:00", "run_id": "c9ebfd2aecd24b66ac286fe5ac59c283", "stage": "codex", "status": "succeeded", "task_id": "1783", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:27:00.724354+00:00", "run_id": "c9ebfd2aecd24b66ac286fe5ac59c283", "stage": "restore", "status": "started", "task_id": "1783", "message": "этап начался"}
+{"time": "2026-11-03T08:27:00.724982+00:00", "run_id": "c9ebfd2aecd24b66ac286fe5ac59c283", "stage": "restore", "status": "succeeded", "task_id": "1783", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:27:00.730534+00:00", "run_id": "c9ebfd2aecd24b66ac286fe5ac59c283", "stage": "privacy", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:27:00.734714+00:00", "run_id": "c9ebfd2aecd24b66ac286fe5ac59c283", "stage": "save_report", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:27:00.739945+00:00", "run_id": "c9ebfd2aecd24b66ac286fe5ac59c283", "stage": "save_report", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:27:01.812257+00:00", "run_id": "5c44afd3510f4b27935cd729b95196b2", "stage": "get_tasks", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:27:01.824391+00:00", "run_id": "5c44afd3510f4b27935cd729b95196b2", "stage": "get_tasks", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:27:01.829157+00:00", "run_id": "5c44afd3510f4b27935cd729b95196b2", "stage": "get_task", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:27:01.852643+00:00", "run_id": "5c44afd3510f4b27935cd729b95196b2", "stage": "get_task", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:27:01.858404+00:00", "run_id": "5c44afd3510f4b27935cd729b95196b2", "stage": "get_history", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:27:01.884224+00:00", "run_id": "5c44afd3510f4b27935cd729b95196b2", "stage": "get_history", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:27:01.889931+00:00", "run_id": "5c44afd3510f4b27935cd729b95196b2", "stage": "normalize", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:27:01.891168+00:00", "run_id": "5c44afd3510f4b27935cd729b95196b2", "stage": "normalize", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:27:01.897100+00:00", "run_id": "5c44afd3510f4b27935cd729b95196b2", "stage": "statistics", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:27:01.898172+00:00", "run_id": "5c44afd3510f4b27935cd729b95196b2", "stage": "statistics", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:27:01.904038+00:00", "run_id": "5c44afd3510f4b27935cd729b95196b2", "stage": "save_report", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:27:01.911085+00:00", "run_id": "5c44afd3510f4b27935cd729b95196b2", "stage": "save_report", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:27:02.515157+00:00", "run_id": "0862d753fefc4e84b67665ef26f6c92c", "stage": "get_tasks", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:27:02.539301+00:00", "run_id": "0862d753fefc4e84b67665ef26f6c92c", "stage": "get_tasks", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:27:02.544911+00:00", "run_id": "0862d753fefc4e84b67665ef26f6c92c", "stage": "get_task", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:27:02.570577+00:00", "run_id": "0862d753fefc4e84b67665ef26f6c92c", "stage": "get_task", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:27:02.576131+00:00", "run_id": "0862d753fefc4e84b67665ef26f6c92c", "stage": "get_reports", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:27:02.601844+00:00", "run_id": "0862d753fefc4e84b67665ef26f6c92c", "stage": "get_reports", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:27:02.607792+00:00", "run_id": "0862d753fefc4e84b67665ef26f6c92c", "stage": "get_history", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:27:02.629594+00:00", "run_id": "0862d753fefc4e84b67665ef26f6c92c", "stage": "get_history", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:27:02.635878+00:00", "run_id": "0862d753fefc4e84b67665ef26f6c92c", "stage": "normalize", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:27:02.637274+00:00", "run_id": "0862d753fefc4e84b67665ef26f6c92c", "stage": "normalize", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:27:02.643521+00:00", "run_id": "0862d753fefc4e84b67665ef26f6c92c", "stage": "mask", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:27:02.645123+00:00", "run_id": "0862d753fefc4e84b67665ef26f6c92c", "stage": "mask", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:27:02.651646+00:00", "run_id": "0862d753fefc4e84b67665ef26f6c92c", "stage": "statistics", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:27:02.652859+00:00", "run_id": "0862d753fefc4e84b67665ef26f6c92c", "stage": "statistics", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:27:02.658756+00:00", "run_id": "0862d753fefc4e84b67665ef26f6c92c", "stage": "privacy", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:27:02.663538+00:00", "run_id": "0862d753fefc4e84b67665ef26f6c92c", "stage": "codex", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:27:02.664567+00:00", "run_id": "0862d753fefc4e84b67665ef26f6c92c", "stage": "codex", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:27:02.669479+00:00", "run_id": "0862d753fefc4e84b67665ef26f6c92c", "stage": "restore", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:27:02.670366+00:00", "run_id": "0862d753fefc4e84b67665ef26f6c92c", "stage": "restore", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:27:02.677935+00:00", "run_id": "0862d753fefc4e84b67665ef26f6c92c", "stage": "privacy", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:27:02.682767+00:00", "run_id": "0862d753fefc4e84b67665ef26f6c92c", "stage": "save_report", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:27:02.690388+00:00", "run_id": "0862d753fefc4e84b67665ef26f6c92c", "stage": "save_report", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:27:03.276022+00:00", "run_id": "cba3c128d62e4f66b7857130483d46ff", "stage": "get_tasks", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:27:03.303897+00:00", "run_id": "cba3c128d62e4f66b7857130483d46ff", "stage": "get_tasks", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:27:03.309798+00:00", "run_id": "cba3c128d62e4f66b7857130483d46ff", "stage": "get_task", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:27:03.337242+00:00", "run_id": "cba3c128d62e4f66b7857130483d46ff", "stage": "get_task", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:27:03.345496+00:00", "run_id": "cba3c128d62e4f66b7857130483d46ff", "stage": "get_reports", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:27:03.348338+00:00", "run_id": "cba3c128d62e4f66b7857130483d46ff", "stage": "get_reports", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:27:03.353079+00:00", "run_id": "cba3c128d62e4f66b7857130483d46ff", "stage": "get_history", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:27:03.364861+00:00", "run_id": "cba3c128d62e4f66b7857130483d46ff", "stage": "get_history", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:27:03.368633+00:00", "run_id": "cba3c128d62e4f66b7857130483d46ff", "stage": "normalize", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:27:03.369271+00:00", "run_id": "cba3c128d62e4f66b7857130483d46ff", "stage": "normalize", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:27:03.373404+00:00", "run_id": "cba3c128d62e4f66b7857130483d46ff", "stage": "mask", "status": "started", "task_id": "1782", "message": "этап начался"}
+{"time": "2026-11-03T08:27:03.374243+00:00", "run_id": "cba3c128d62e4f66b7857130483d46ff", "stage": "mask", "status": "succeeded", "task_id": "1782", "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:27:03.377706+00:00", "run_id": "cba3c128d62e4f66b7857130483d46ff", "stage": "statistics", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:27:03.378313+00:00", "run_id": "cba3c128d62e4f66b7857130483d46ff", "stage": "statistics", "status": "succeeded", "task_id": null, "message": "этап завершился успешно"}
+{"time": "2026-11-03T08:27:03.382512+00:00", "run_id": "cba3c128d62e4f66b7857130483d46ff", "stage": "privacy", "status": "started", "task_id": null, "message": "этап начался"}
+{"time": "2026-11-03T08:27:03.386956+00:00", "run_id": "cba3c128d62e4f66b7857130483d46ff", "stage": "codex", "status": "started", "task_id": "1782", "message": "этап начался"}
+test_analyzer_receives_only_prepared_text_and_returns_validated_findings (test_analyzer_cli.AnalyzerCommands.test_analyzer_receives_only_prepared_text_and_returns_validated_findings) ... ok
+test_confirmed_claim_must_point_to_the_transferred_text_source (test_analyzer_cli.AnalyzerCommands.test_confirmed_claim_must_point_to_the_transferred_text_source) ... ok
+test_invalid_key_header_does_not_leak_secret_in_error (test_analyzer_cli.AnalyzerCommands.test_invalid_key_header_does_not_leak_secret_in_error) ... ok
+test_modified_handoff_is_rejected_before_network_request (test_analyzer_cli.AnalyzerCommands.test_modified_handoff_is_rejected_before_network_request) ... ok
+test_private_mapping_cannot_be_added_to_handoff (test_analyzer_cli.AnalyzerCommands.test_private_mapping_cannot_be_added_to_handoff) ... ok
+test_unknown_employee_label_is_rejected (test_analyzer_cli.AnalyzerCommands.test_unknown_employee_label_is_rejected) ... ok
+test_unknown_evidence_is_rejected_without_saving_success (test_analyzer_cli.AnalyzerCommands.test_unknown_evidence_is_rejected_without_saving_success) ... ok
+test_connect_tunnels_bytes_with_local_synthetic_upstream (test_analyzer_gateway.GatewayPolicy.test_connect_tunnels_bytes_with_local_synthetic_upstream) ... ok
+test_foreign_domains_ip_literals_and_ports_are_denied_before_dns (test_analyzer_gateway.GatewayPolicy.test_foreign_domains_ip_literals_and_ports_are_denied_before_dns) ... ok
+test_non_connect_request_never_opens_upstream (test_analyzer_gateway.GatewayPolicy.test_non_connect_request_never_opens_upstream) ... ok
+test_private_loopback_and_linklocal_dns_answers_are_denied (test_analyzer_gateway.GatewayPolicy.test_private_loopback_and_linklocal_dns_answers_are_denied) ... ok
+test_validated_numeric_address_is_used_without_second_dns_lookup (test_analyzer_gateway.GatewayPolicy.test_validated_numeric_address_is_used_without_second_dns_lookup) ... ok
+test_active_duplicate_reuses_run_but_finished_request_can_be_repeated (test_application_cli.ApplicationCommands.test_active_duplicate_reuses_run_but_finished_request_can_be_repeated) ... ok
+test_demo_input_is_identified_in_report_and_model_summary (test_application_cli.ApplicationCommands.test_demo_input_is_identified_in_report_and_model_summary) ... ok
+test_missing_source_records_stage_and_cause_without_creating_report (test_application_cli.ApplicationCommands.test_missing_source_records_stage_and_cause_without_creating_report) ... ok
+test_statistics_job_saves_permanent_report_and_cleans_work_files (test_application_cli.ApplicationCommands.test_statistics_job_saves_permanent_report_and_cleans_work_files) ... ok
+test_bitrix_application_error_is_rejected (test_audit_contracts.ApiContracts.test_bitrix_application_error_is_rejected) ... ok
+test_bitrix_repeated_page_is_rejected (test_audit_contracts.ApiContracts.test_bitrix_repeated_page_is_rejected) ... ok
+test_bitrix_results_preserve_multiple_reports_and_pagination (test_audit_contracts.ApiContracts.test_bitrix_results_preserve_multiple_reports_and_pagination) ... ok
+test_gitlab_historical_author_and_exclusive_end (test_audit_contracts.ApiContracts.test_gitlab_historical_author_and_exclusive_end) ... ok
+test_gitlab_malformed_commit_is_rejected (test_audit_contracts.ApiContracts.test_gitlab_malformed_commit_is_rejected) ... ok
+test_gitlab_malformed_diff_is_rejected (test_audit_contracts.ApiContracts.test_gitlab_malformed_diff_is_rejected) ... ok
+test_gitlab_short_page_still_follows_next_page_header (test_audit_contracts.ApiContracts.test_gitlab_short_page_still_follows_next_page_header) ... ok
+test_http_failures_do_not_expose_response_body (test_audit_contracts.ApiContracts.test_http_failures_do_not_expose_response_body) ... ok
+test_kaiten_malformed_properties_fail_with_validation_error (test_audit_contracts.ApiContracts.test_kaiten_malformed_properties_fail_with_validation_error) ... ok
+test_kaiten_null_missing_and_structured_properties_are_distinct (test_audit_contracts.ApiContracts.test_kaiten_null_missing_and_structured_properties_are_distinct) ... ok
+test_malformed_analyzer_envelopes_are_validation_errors (test_audit_contracts.ApiContracts.test_malformed_analyzer_envelopes_are_validation_errors) ... ok
+test_redirect_is_not_followed_with_credentials (test_audit_contracts.ApiContracts.test_redirect_is_not_followed_with_credentials) ... ok
+test_reassignment_after_completion_does_not_transfer_completed_work (test_audit_contracts.StatisticsOwnership.test_reassignment_after_completion_does_not_transfer_completed_work) ... ok
+test_daemon_refuses_host_execution (test_bitrix_codex_socket.CodexBoundaries.test_daemon_refuses_host_execution) ... ok
+test_subscription_gateway_never_resolves_unapproved_hosts (test_bitrix_codex_socket.CodexBoundaries.test_subscription_gateway_never_resolves_unapproved_hosts) ... ok
+test_checked_bundle_crosses_actual_unix_socket_without_local_mapping (test_bitrix_codex_socket.CodexSocket.test_checked_bundle_crosses_actual_unix_socket_without_local_mapping) ... skipped 'Unix sockets require Linux container in this Python build'
+test_socket_error_does_not_return_fake_success (test_bitrix_codex_socket.CodexSocket.test_socket_error_does_not_return_fake_success) ... skipped 'Unix sockets require Linux container in this Python build'
+test_unknown_source_in_socket_response_is_rejected (test_bitrix_codex_socket.CodexSocket.test_unknown_source_in_socket_response_is_rejected) ... skipped 'Unix sockets require Linux container in this Python build'
+test_accounts_are_consistently_replaced_and_documents_are_removed (test_bitrix_diagnostics.BitrixDiagnostics.test_accounts_are_consistently_replaced_and_documents_are_removed) ... ok
+test_bad_date_has_no_remote_value_in_error (test_bitrix_diagnostics.BitrixDiagnostics.test_bad_date_has_no_remote_value_in_error) ... ok
+test_changes_before_new_are_not_silently_accepted (test_bitrix_diagnostics.BitrixDiagnostics.test_changes_before_new_are_not_silently_accepted) ... ok
+test_delayed_new_in_saved_tasks_does_not_reject_october_history (test_bitrix_diagnostics.BitrixDiagnostics.test_delayed_new_in_saved_tasks_does_not_reject_october_history) ... ok
+test_history_gap_is_not_silently_accepted (test_bitrix_diagnostics.BitrixDiagnostics.test_history_gap_is_not_silently_accepted) ... ok
+test_initial_state_begins_at_new_not_at_unconfirmed_task_date (test_bitrix_diagnostics.BitrixDiagnostics.test_initial_state_begins_at_new_not_at_unconfirmed_task_date) ... ok
+test_missing_creation_has_specific_safe_reason (test_bitrix_diagnostics.BitrixDiagnostics.test_missing_creation_has_specific_safe_reason) ... ok
+test_multiple_new_records_are_not_silently_accepted (test_bitrix_diagnostics.BitrixDiagnostics.test_multiple_new_records_are_not_silently_accepted) ... ok
+test_new_before_task_date_is_still_rejected (test_bitrix_diagnostics.BitrixDiagnostics.test_new_before_task_date_is_still_rejected) ... ok
+test_september_uses_historical_assignee_before_october_reassignment (test_bitrix_diagnostics.BitrixDiagnostics.test_september_uses_historical_assignee_before_october_reassignment) ... ok
+test_snapshot_mismatch_identifies_field (test_bitrix_diagnostics.BitrixDiagnostics.test_snapshot_mismatch_identifies_field) ... ok
+test_supported_fixture_survives_sanitization (test_bitrix_diagnostics.BitrixDiagnostics.test_supported_fixture_survives_sanitization) ... ok
+test_unobserved_creation_interval_is_not_invented (test_bitrix_diagnostics.BitrixDiagnostics.test_unobserved_creation_interval_is_not_invented) ... ok
+test_cannot_decide_for_another_task_before_it_is_presented (test_bitrix_live.BitrixLive.test_cannot_decide_for_another_task_before_it_is_presented) ... ok
+test_checked_task_is_analyzed_while_other_waits_and_is_not_sent_twice (test_bitrix_live.BitrixLive.test_checked_task_is_analyzed_while_other_waits_and_is_not_sent_twice) ... ok
+test_cli_receives_only_masked_material_and_returns_validated_answer (test_bitrix_live.BitrixLive.test_cli_receives_only_masked_material_and_returns_validated_answer) ... ok
+test_cloud_question_identifies_task_by_title_and_refusal_is_in_report (test_bitrix_live.BitrixLive.test_cloud_question_identifies_task_by_title_and_refusal_is_in_report) ... ok
+test_codex_failure_does_not_fallback_and_cleans_temporary_material (test_bitrix_live.BitrixLive.test_codex_failure_does_not_fallback_and_cleans_temporary_material) ... ok
+test_delayed_new_before_period_reaches_codex (test_bitrix_live.BitrixLive.test_delayed_new_before_period_reaches_codex) ... ok
+test_later_text_and_results_are_not_sent_to_codex (test_bitrix_live.BitrixLive.test_later_text_and_results_are_not_sent_to_codex) ... ok
+test_list_failure_stops_before_codex_and_hides_remote_error (test_bitrix_live.BitrixLive.test_list_failure_stops_before_codex_and_hides_remote_error) ... ok
+test_local_statistics_returns_titles_by_category_and_only_overdue_count (test_bitrix_live.BitrixLive.test_local_statistics_returns_titles_by_category_and_only_overdue_count) ... ok
+test_mcp_to_http_to_bitrix_to_cli_and_back (test_bitrix_live.BitrixLive.test_mcp_to_http_to_bitrix_to_cli_and_back) ... ok
+test_missing_creation_history_is_partial_not_invented (test_bitrix_live.BitrixLive.test_missing_creation_history_is_partial_not_invented) ... ok
+test_one_skip_leaves_next_blocked_task_waiting_for_separate_decision (test_bitrix_live.BitrixLive.test_one_skip_leaves_next_blocked_task_waiting_for_separate_decision) ... ok
+test_pagination_and_current_assignee_is_not_used_as_a_filter (test_bitrix_live.BitrixLive.test_pagination_and_current_assignee_is_not_used_as_a_filter) ... ok
+test_privacy_bad_clean_stays_blocked_with_new_version (test_bitrix_live.BitrixLive.test_privacy_bad_clean_stays_blocked_with_new_version) ... ok
+test_privacy_clean_rechecks_before_resuming (test_bitrix_live.BitrixLive.test_privacy_clean_rechecks_before_resuming) ... ok
+test_privacy_continue_applies_only_to_shown_version (test_bitrix_live.BitrixLive.test_privacy_continue_applies_only_to_shown_version) ... ok
+test_privacy_skip_continues_without_sending_task (test_bitrix_live.BitrixLive.test_privacy_skip_continues_without_sending_task) ... ok
+test_privacy_wait_keeps_files_and_deduplicates (test_bitrix_live.BitrixLive.test_privacy_wait_keeps_files_and_deduplicates) ... ok
+test_real_http_bitrix_to_masked_analyzer_and_restored_report (test_bitrix_live.BitrixLive.test_real_http_bitrix_to_masked_analyzer_and_restored_report) ... ok
+test_reassigned_task_is_included_at_historical_cutoff (test_bitrix_live.BitrixLive.test_reassigned_task_is_included_at_historical_cutoff) ... ok
+test_restart_marks_running_interrupted_and_preserves_waiting_material (test_bitrix_live.BitrixLive.test_restart_marks_running_interrupted_and_preserves_waiting_material) ... ok
+test_skip_one_still_analyzes_other_checked_task (test_bitrix_live.BitrixLive.test_skip_one_still_analyzes_other_checked_task) ... ok
+test_statistics_and_cloud_review_are_distinct_requests (test_bitrix_live.BitrixLive.test_statistics_and_cloud_review_are_distinct_requests) ... ok
+test_statistics_is_local_without_masking_cloud_or_report_text_requests (test_bitrix_live.BitrixLive.test_statistics_is_local_without_masking_cloud_or_report_text_requests) ... ok
+test_unix_deadlines_in_history_and_iso_dates_in_task_are_compatible (test_bitrix_live.BitrixLive.test_unix_deadlines_in_history_and_iso_dates_in_task_are_compatible) ... ok
+test_unknown_source_in_codex_answer_is_rejected (test_bitrix_live.BitrixLive.test_unknown_source_in_codex_answer_is_rejected) ... ok
+test_bad_handoff_never_starts_container (test_cli_analyzers.CliAnalyzers.test_bad_handoff_never_starts_container) ... ok
+test_both_adapters_use_same_handoff_and_validate_findings (test_cli_analyzers.CliAnalyzers.test_both_adapters_use_same_handoff_and_validate_findings) ... ok
+test_claude_print_reads_stdin_and_structured_output (test_cli_analyzers.CliAnalyzers.test_claude_print_reads_stdin_and_structured_output) ... ok
+test_codex_exec_reads_stdin_and_final_file (test_cli_analyzers.CliAnalyzers.test_codex_exec_reads_stdin_and_final_file) ... ok
+test_container_has_no_network_or_host_mount_and_only_provider_secret (test_cli_analyzers.CliAnalyzers.test_container_has_no_network_or_host_mount_and_only_provider_secret) ... ok
+test_docker_discovery_supports_per_user_desktop_install (test_cli_analyzers.CliAnalyzers.test_docker_discovery_supports_per_user_desktop_install) ... ok
+test_docker_discovery_uses_path_when_available (test_cli_analyzers.CliAnalyzers.test_docker_discovery_uses_path_when_available) ... ok
+test_failure_and_timeout_are_safe_and_cleanup_container (test_cli_analyzers.CliAnalyzers.test_failure_and_timeout_are_safe_and_cleanup_container) ... ok
+test_invalid_config_or_missing_secret_does_not_start_docker (test_cli_analyzers.CliAnalyzers.test_invalid_config_or_missing_secret_does_not_start_docker) ... ok
+test_worker_refuses_host_execution_before_starting_cli (test_cli_analyzers.CliAnalyzers.test_worker_refuses_host_execution_before_starting_cli) ... ok
+test_worker_rejects_error_envelope_and_unfinished_codex (test_cli_analyzers.CliAnalyzers.test_worker_rejects_error_envelope_and_unfinished_codex) ... ok
+test_account_conflicts_including_history_do_not_change_registry (test_employees_cli.EmployeesCommandTests.test_account_conflicts_including_history_do_not_change_registry) ... ok
+test_add_and_list_preserve_employee_between_command_processes (test_employees_cli.EmployeesCommandTests.test_add_and_list_preserve_employee_between_command_processes) ... ok
+test_conflicting_csv_accounts_are_reported_before_confirmation (test_employees_cli.EmployeesCommandTests.test_conflicting_csv_accounts_are_reported_before_confirmation) ... ok
+test_conflicting_edit_rolls_back_and_clearing_optional_field_is_explicit (test_employees_cli.EmployeesCommandTests.test_conflicting_edit_rolls_back_and_clearing_optional_field_is_explicit) ... ok
+test_edit_does_not_overwrite_a_newer_change_from_another_command (test_employees_cli.EmployeesCommandTests.test_edit_does_not_overwrite_a_newer_change_from_another_command) ... ok
+test_edit_preserves_label_and_old_name_and_accounts (test_employees_cli.EmployeesCommandTests.test_edit_preserves_label_and_old_name_and_accounts) ... ok
+test_id_spelling_cannot_assign_same_bitrix_account_to_two_people (test_employees_cli.EmployeesCommandTests.test_id_spelling_cannot_assign_same_bitrix_account_to_two_people) ... ok
+test_import_rechecks_conflicts_and_rolls_back_entire_batch (test_employees_cli.EmployeesCommandTests.test_import_rechecks_conflicts_and_rolls_back_entire_batch) ... ok
+test_import_rejects_duplicate_csv_columns_instead_of_losing_values (test_employees_cli.EmployeesCommandTests.test_import_rejects_duplicate_csv_columns_instead_of_losing_values) ... ok
+test_import_saves_only_after_preview_and_confirmation (test_employees_cli.EmployeesCommandTests.test_import_saves_only_after_preview_and_confirmation) ... ok
+test_import_skips_existing_employee_without_overwriting (test_employees_cli.EmployeesCommandTests.test_import_skips_existing_employee_without_overwriting) ... ok
+test_incomplete_add_and_import_confirmation_are_cancelled (test_employees_cli.EmployeesCommandTests.test_incomplete_add_and_import_confirmation_are_cancelled) ... ok
+test_invalid_csv_reports_row_and_valid_candidates_without_partial_write (test_employees_cli.EmployeesCommandTests.test_invalid_csv_reports_row_and_valid_candidates_without_partial_write) ... ok
+test_invalid_employee_does_not_create_record_or_consume_label (test_employees_cli.EmployeesCommandTests.test_invalid_employee_does_not_create_record_or_consume_label) ... ok
+test_unclosed_csv_quote_is_reported_without_traceback (test_employees_cli.EmployeesCommandTests.test_unclosed_csv_quote_is_reported_without_traceback) ... ok
+test_employee_lookup_returns_only_minimal_candidates (test_http_application.LocalHttpApplication.test_employee_lookup_returns_only_minimal_candidates) ... ok
+test_http_rejects_model_supplied_paths_and_analyzer_settings (test_http_application.LocalHttpApplication.test_http_rejects_model_supplied_paths_and_analyzer_settings) ... ok
+test_http_starts_job_and_returns_its_permanent_report (test_http_application.LocalHttpApplication.test_http_starts_job_and_returns_its_permanent_report) ... ok
+test_invalid_date_does_not_crash_http_request_handler (test_http_application.LocalHttpApplication.test_invalid_date_does_not_crash_http_request_handler) ... ok
+test_mcp_http_client_waits_for_result_and_returns_summary_not_full_report (test_http_application.LocalHttpApplication.test_mcp_http_client_waits_for_result_and_returns_summary_not_full_report) ... ok
+test_report_link_opens_only_its_own_document_without_general_token (test_http_application.LocalHttpApplication.test_report_link_opens_only_its_own_document_without_general_token) ... ok
+test_bitrix_gets_task_results_without_fetching_chat (test_integrations_cli.DirectSourceCommands.test_bitrix_gets_task_results_without_fetching_chat) ... ok
+test_gitlab_filters_by_registry_email_and_marks_missing_diffs (test_integrations_cli.DirectSourceCommands.test_gitlab_filters_by_registry_email_and_marks_missing_diffs) ... ok
+test_kaiten_reads_configured_report_property_without_guessing_chat_messages (test_integrations_cli.DirectSourceCommands.test_kaiten_reads_configured_report_property_without_guessing_chat_messages) ... ok
+test_demo_lookup_and_analysis_use_synthetic_registry (test_lmstudio_demo.LmStudioDemo.test_demo_lookup_and_analysis_use_synthetic_registry) ... ok
+test_existing_unmarked_folder_is_not_modified (test_lmstudio_demo.LmStudioDemo.test_existing_unmarked_folder_is_not_modified) ... ok
+test_paths_outside_project_data_are_rejected (test_lmstudio_demo.LmStudioDemo.test_paths_outside_project_data_are_rejected) ... ok
+test_restart_preserves_token_and_data (test_lmstudio_demo.LmStudioDemo.test_restart_preserves_token_and_data) ... ok
+test_bad_token_returns_safe_tool_error (test_mcp_bridge.McpBridge.test_bad_token_returns_safe_tool_error) ... ok
+test_calls_before_initialize_are_rejected (test_mcp_bridge.McpBridge.test_calls_before_initialize_are_rejected) ... ok
+test_cancellation_suppresses_result_but_keeps_connection_usable (test_mcp_bridge.McpBridge.test_cancellation_suppresses_result_but_keeps_connection_usable) ... ok
+test_extra_arguments_and_unknown_tools_are_rejected (test_mcp_bridge.McpBridge.test_extra_arguments_and_unknown_tools_are_rejected) ... ok
+test_fragmented_message_is_reassembled (test_mcp_bridge.McpBridge.test_fragmented_message_is_reassembled) ... ok
+test_initialize_lists_exactly_two_tools_without_paths_or_secrets (test_mcp_bridge.McpBridge.test_initialize_lists_exactly_two_tools_without_paths_or_secrets) ... ok
+test_lookup_and_statistics_through_real_http_application (test_mcp_bridge.McpBridge.test_lookup_and_statistics_through_real_http_application) ... ok
+test_missing_token_file_fails_without_printing_configuration (test_mcp_bridge.McpBridge.test_missing_token_file_fails_without_printing_configuration) ... ok
+test_older_protocol_version_is_negotiated (test_mcp_bridge.McpBridge.test_older_protocol_version_is_negotiated) ... ok
+test_oversized_message_is_rejected (test_mcp_bridge.McpBridge.test_oversized_message_is_rejected) ... ok
+test_parse_error_does_not_break_next_valid_request (test_mcp_bridge.McpBridge.test_parse_error_does_not_break_next_valid_request) ... ok
+test_unknown_method_is_rejected (test_mcp_bridge.McpBridge.test_unknown_method_is_rejected) ... ok
+test_unknown_protocol_offers_supported_version (test_mcp_bridge.McpBridge.test_unknown_protocol_offers_supported_version) ... ok
+test_changed_candidate_cannot_reuse_approval (test_privacy_cli.PrivacyCommandTests.test_changed_candidate_cannot_reuse_approval) ... ok
+test_continue_requires_explicit_matching_version_and_keeps_unknown_data (test_privacy_cli.PrivacyCommandTests.test_continue_requires_explicit_matching_version_and_keeps_unknown_data) ... ok
+test_corrupt_state_is_reported_without_traceback (test_privacy_cli.PrivacyCommandTests.test_corrupt_state_is_reported_without_traceback) ... ok
+test_history_phone_format_and_word_boundaries (test_privacy_cli.PrivacyCommandTests.test_history_phone_format_and_word_boundaries) ... ok
+test_input_labels_are_not_silently_treated_as_generated_employee_names (test_privacy_cli.PrivacyCommandTests.test_input_labels_are_not_silently_treated_as_generated_employee_names) ... ok
+test_missing_database_is_not_created_and_existing_runs_are_not_overwritten (test_privacy_cli.PrivacyCommandTests.test_missing_database_is_not_created_and_existing_runs_are_not_overwritten) ... ok
+test_prepare_export_and_restore_use_labels_without_exposing_mapping (test_privacy_cli.PrivacyCommandTests.test_prepare_export_and_restore_use_labels_without_exposing_mapping) ... ok
+test_restore_cannot_bypass_a_pending_decision (test_privacy_cli.PrivacyCommandTests.test_restore_cannot_bypass_a_pending_decision) ... ok
+test_restore_json_preserves_escaping_in_employee_name (test_privacy_cli.PrivacyCommandTests.test_restore_json_preserves_escaping_in_employee_name) ... ok
+test_shared_name_blocks_export_and_inspect_shows_local_reason (test_privacy_cli.PrivacyCommandTests.test_shared_name_blocks_export_and_inspect_shows_local_reason) ... ok
+test_skip_keeps_material_unavailable_for_export (test_privacy_cli.PrivacyCommandTests.test_skip_keeps_material_unavailable_for_export) ... ok
+test_unknown_answer_label_does_not_create_a_guessed_report (test_privacy_cli.PrivacyCommandTests.test_unknown_answer_label_does_not_create_a_guessed_report) ... ok
+test_unknown_contacts_are_reported_instead_of_assigned_to_employee (test_privacy_cli.PrivacyCommandTests.test_unknown_contacts_are_reported_instead_of_assigned_to_employee) ... ok
+test_deadline_history_prevents_late_extension_from_hiding_a_breach (test_worklog_cli.WorklogCommands.test_deadline_history_prevents_late_extension_from_hiding_a_breach) ... ok
+test_instant_reassignment_is_not_a_day_of_employee_work (test_worklog_cli.WorklogCommands.test_instant_reassignment_is_not_a_day_of_employee_work) ... ok
+test_missing_history_is_explicitly_partial_and_not_fabricated (test_worklog_cli.WorklogCommands.test_missing_history_is_explicitly_partial_and_not_fabricated) ... ok
+test_reopened_task_is_current_and_not_completed_at_end_of_period (test_worklog_cli.WorklogCommands.test_reopened_task_is_current_and_not_completed_at_end_of_period) ... ok
+test_statistics_uses_october_snapshot_and_counts_only_october_deadline_breaches (test_worklog_cli.WorklogCommands.test_statistics_uses_october_snapshot_and_counts_only_october_deadline_breaches) ... ok
+test_timezone_offsets_are_compared_as_instants (test_worklog_cli.WorklogCommands.test_timezone_offsets_are_compared_as_instants) ... ok
+
+----------------------------------------------------------------------
+Ran 144 tests in 51.758s
+
+OK (skipped=3)

@@ -1,0 +1,9 @@
+* text=auto
+*.py text eol=lf
+Dockerfile text eol=lf
+Dockerfile.analyzer text eol=lf
+*.yaml text eol=lf
+docker/employees text eol=lf
+*.csv text eol=lf
+*.mjs text eol=lf
+*.ts text eol=lf

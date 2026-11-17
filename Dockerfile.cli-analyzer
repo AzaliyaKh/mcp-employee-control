@@ -1,0 +1,16 @@
+FROM node:22-bookworm-slim
+RUN apt-get update && apt-get install -y --no-install-recommends python3 ca-certificates \
+    && rm -rf /var/lib/apt/lists/* \
+    && ln -s /usr/bin/python3 /usr/local/bin/python
+# Specify reviewed, exact package versions when building; there are no latest defaults.
+ARG CODEX_VERSION
+ARG CLAUDE_VERSION
+RUN test -n "$CODEX_VERSION" \
+    && npm install -g "@openai/codex@${CODEX_VERSION}" \
+    && if [ -n "$CLAUDE_VERSION" ]; then npm install -g "@anthropic-ai/claude-code@${CLAUDE_VERSION}"; fi
+ENV PYTHONPATH=/app PYTHONDONTWRITEBYTECODE=1 PYTHONUNBUFFERED=1 PYTHONIOENCODING=utf-8
+WORKDIR /work
+COPY analyzer/ /app/analyzer/
+COPY integrations/__init__.py integrations/transport.py /app/integrations/
+USER 65532:65532
+ENTRYPOINT ["python", "-m", "analyzer.cli_worker"]

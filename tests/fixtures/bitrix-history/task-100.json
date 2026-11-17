@@ -1,0 +1,87 @@
+{
+  "task": {
+    "id": "100",
+    "createdDate": "2026-08-12T12:32:57+05:00",
+    "deadline": "2027-03-01T08:00:00+05:00",
+    "status": "2",
+    "realStatus": null,
+    "closedDate": null,
+    "statusChangedDate": "2026-10-20T16:43:37+05:00",
+    "responsibleId": "900001"
+  },
+  "history": [
+    {
+      "id": 506,
+      "createdDate": "2026-08-12T10:33:42+03:00",
+      "field": "NEW",
+      "value": {
+        "from": null,
+        "to": null
+      }
+    },
+    {
+      "id": 1468,
+      "createdDate": "2026-08-19T10:22:47+03:00",
+      "field": "RESPONSIBLE_ID",
+      "value": {
+        "from": "900002",
+        "to": "900003"
+      }
+    },
+    {
+      "id": 1470,
+      "createdDate": "2026-08-19T10:22:53+03:00",
+      "field": "RESPONSIBLE_ID",
+      "value": {
+        "from": "900003",
+        "to": "900002"
+      }
+    },
+    {
+      "id": 3790,
+      "createdDate": "2026-08-27T12:36:07+03:00",
+      "field": "RESPONSIBLE_ID",
+      "value": {
+        "from": "900002",
+        "to": "900004"
+      }
+    },
+    {
+      "id": 3794,
+      "createdDate": "2026-08-27T12:36:21+03:00",
+      "field": "DEADLINE",
+      "value": {
+        "from": "1788145200",
+        "to": "1803610800"
+      }
+    },
+    {
+      "id": 5716,
+      "createdDate": "2026-09-03T13:55:48+03:00",
+      "field": "RESPONSIBLE_ID",
+      "value": {
+        "from": "900004",
+        "to": "900005"
+      }
+    },
+    {
+      "id": 14826,
+      "createdDate": "2026-10-20T14:43:37+03:00",
+      "field": "RESPONSIBLE_ID",
+      "value": {
+        "from": "900005",
+        "to": "900001"
+      }
+    },
+    {
+      "id": 15912,
+      "createdDate": "2026-10-22T12:32:55+03:00",
+      "field": "DEADLINE",
+      "value": {
+        "from": "1803610800",
+        "to": "1803870000"
+      }
+    }
+  ],
+  "results": []
+}

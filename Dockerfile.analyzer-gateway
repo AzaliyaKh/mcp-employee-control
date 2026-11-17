@@ -1,0 +1,4 @@
+FROM python:3.13-slim
+ENV PYTHONPATH=/app PYTHONDONTWRITEBYTECODE=1 PYTHONUNBUFFERED=1
+COPY analyzer/__init__.py analyzer/gateway.py /app/analyzer/
+ENTRYPOINT ["python", "-m", "analyzer.gateway"]

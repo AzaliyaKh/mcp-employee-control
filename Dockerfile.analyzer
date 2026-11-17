@@ -1,0 +1,7 @@
+FROM python:3.13-slim
+ENV PYTHONUNBUFFERED=1 PYTHONDONTWRITEBYTECODE=1 PYTHONIOENCODING=utf-8 PYTHONPATH=/app
+WORKDIR /app
+COPY analyzer/ /app/analyzer/
+COPY integrations/__init__.py integrations/transport.py /app/integrations/
+USER 65532:65532
+ENTRYPOINT ["python", "-m", "analyzer"]

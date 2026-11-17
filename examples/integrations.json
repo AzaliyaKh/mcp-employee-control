@@ -1,0 +1,14 @@
+{
+  "bitrix": {
+    "base_env": "BITRIX_WEBHOOK_URL"
+  },
+  "kaiten": {
+    "base_url": "https://YOUR-COMPANY.kaiten.ru/api/latest/",
+    "token_env": "KAITEN_TOKEN",
+    "report_property_id": null
+  },
+  "gitlab": {
+    "base_url": "https://YOUR-GITLAB/api/v4/",
+    "token_env": "GITLAB_TOKEN"
+  }
+}

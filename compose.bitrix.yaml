@@ -1,0 +1,73 @@
+# Separate from the offline CLI Compose. No Docker socket or host credentials in containers.
+services:
+  service:
+    build: .
+    command: [python, -m, worklog, --data-dir, /data/bitrix-live, --config, /data/bitrix-live/config.json, serve, --host, 0.0.0.0, --port, '8000']
+    ports: ['127.0.0.1:8000:8000']
+    environment:
+      BITRIX_WEBHOOK_URL: ${BITRIX_WEBHOOK_URL:?Set BITRIX_WEBHOOK_URL in this terminal}
+      WORKLOG_TOKEN_FILE: /data/bitrix-live/local-token.txt
+      WORKLOG_PUBLIC_URL: http://127.0.0.1:8000
+    volumes:
+      - ./data:/data
+      - codex-jobs:/codex:ro
+    read_only: true
+    cap_drop: [ALL]
+    security_opt: [no-new-privileges:true]
+    tmpfs: [/tmp]
+    healthcheck:
+      test: [CMD, python, -c, "import os,urllib.request,pathlib; t=pathlib.Path(os.environ['WORKLOG_TOKEN_FILE']).read_text().strip(); urllib.request.urlopen(urllib.request.Request('http://127.0.0.1:8000/health',headers={'Authorization':'Bearer '+t}),timeout=3)"]
+      interval: 10s
+      timeout: 5s
+      retries: 6
+    logging:
+      driver: json-file
+      options: {max-size: 10m, max-file: '3'}
+  codex:
+    build:
+      context: .
+      dockerfile: Dockerfile.codex-service
+      args:
+        CODEX_VERSION: ${CODEX_VERSION:-0.166.0}
+    network_mode: none
+    environment:
+      CODEX_MODEL: ${CODEX_MODEL:-default}
+      CODEX_TIMEOUT: '240'
+    volumes:
+      - codex-auth:/auth
+      - codex-jobs:/codex
+      - codex-gateway:/gateway:ro
+    tmpfs:
+      - /work:uid=65532,gid=65532,mode=700,size=268435456
+      - /tmp:mode=1777,size=268435456
+      - /home/worker:uid=65532,gid=65532,mode=700,size=16777216
+    read_only: true
+    cap_drop: [ALL]
+    security_opt: [no-new-privileges:true]
+    pids_limit: 128
+    mem_limit: 1g
+    depends_on: [codex-gateway]
+    healthcheck:
+      test: [CMD, python3, -c, "import os,stat; assert stat.S_ISSOCK(os.stat('/codex/codex.sock').st_mode)"]
+      interval: 5s
+      timeout: 3s
+      retries: 12
+    logging:
+      driver: json-file
+      options: {max-size: 10m, max-file: '3'}
+  codex-gateway:
+    build:
+      context: .
+      dockerfile: Dockerfile.analyzer-gateway
+    command: [codex_subscription]
+    volumes: [codex-gateway:/gateway]
+    read_only: true
+    cap_drop: [ALL]
+    security_opt: [no-new-privileges:true]
+    pids_limit: 64
+    mem_limit: 128m
+    logging: {driver: none}
+volumes:
+  codex-auth:
+  codex-jobs:
+  codex-gateway:

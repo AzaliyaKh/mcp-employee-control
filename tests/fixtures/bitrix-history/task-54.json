@@ -1,0 +1,51 @@
+{
+  "task": {
+    "id": "54",
+    "createdDate": "2026-05-14T16:00:58+05:00",
+    "deadline": "2027-03-31T17:00:00+05:00",
+    "status": "2",
+    "realStatus": null,
+    "closedDate": null,
+    "statusChangedDate": "2026-08-27T14:19:22+05:00",
+    "responsibleId": "900001"
+  },
+  "history": [
+    {
+      "id": 274,
+      "createdDate": "2026-05-14T14:02:12+03:00",
+      "field": "NEW",
+      "value": {
+        "from": null,
+        "to": null
+      }
+    },
+    {
+      "id": 528,
+      "createdDate": "2026-08-12T10:37:06+03:00",
+      "field": "DEADLINE",
+      "value": {
+        "from": "1801483200",
+        "to": "1793361600"
+      }
+    },
+    {
+      "id": 3752,
+      "createdDate": "2026-08-27T12:19:22+03:00",
+      "field": "RESPONSIBLE_ID",
+      "value": {
+        "from": "900002",
+        "to": "900001"
+      }
+    },
+    {
+      "id": 14946,
+      "createdDate": "2026-10-21T06:03:39+03:00",
+      "field": "DEADLINE",
+      "value": {
+        "from": "1793361600",
+        "to": "1806494400"
+      }
+    }
+  ],
+  "results": []
+}

@@ -1,0 +1,7 @@
+{
+  "kind": "claude_code",
+  "model": "YOUR-MODEL",
+  "image": "worklog-cli-analyzer:local",
+  "gateway_volume": "worklog-claude-gateway",
+  "timeout_seconds": 300
+}
